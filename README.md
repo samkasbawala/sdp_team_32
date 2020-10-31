@@ -1,4 +1,4 @@
-# 2019-2020 SDP Team 32 Project
+# 2020-2021 SDP Team 32 Project
 Welcome to our Senior Design Project. This repository is is the result of the joint contributions from John Gauthier, Sam Kasbawala, Mickey Mannella, and Ryan Miller. The goal of this project is to use baseball statistics to come up with a predictive model in order to predict the outcomes of games. We will first start with Machine Learning techniques, using learning models such as Support Vector Machines (SVM), Random Forest, and a couple of others. Hopefully, we will be able to extend this idea and implement something similar using neural networks and deep learning. Currently, the project is in it's developmental and initial stages.
 
 
