@@ -21,7 +21,7 @@ In this project, we will be utilizing Jupyter Notebooks in order to visualize da
 [Back to top](#table-of-contents)
 
 ------
-You can download Python from [python.org](https://www.python.org/downloads/). Follow the installation for you system (Linux, Windows, Mac). `pip` should be installed when you install python. If it isn't then you should install it. It's easy to find tutorials online on how to do this. Once it's installed, make sure you have the latets version of pip installed by issuing the following command
+You can download Python from [python.org](https://www.python.org/downloads/). Follow the installation for you system (Linux, Windows, Mac). `pip` should be installed when you install python. If it isn't then you should install it. It's easy to find tutorials online on how to do this. Once it's installed, make sure you have the latest version of pip installed by issuing the following command
 ```
 $ python3 -m pip install --upgrade pip
 ```
