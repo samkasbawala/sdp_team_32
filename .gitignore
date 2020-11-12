@@ -2,3 +2,5 @@ __pycache__
 .ipynb_checkpoints/*
 .venv
 .vscode
+Frankenstein/.ipynb_checkpoints/*
+datasets/retro_sheet_gls/.ipynb_checkpoints/*
