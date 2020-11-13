@@ -67,8 +67,7 @@ class DownloadRetroSheetData():
                 os.remove(os.path.join(download_path, f"gl{year}.zip"))
                 pbar.update()
 
-    def __makeLabels(self, files):
-        labels = [
+    def __makeLabels(self, files, labels = [
             "Date",
             "Number of game",
             "Day",
@@ -230,7 +229,7 @@ class DownloadRetroSheetData():
             "Home Team Player 9 Defensive Position",
             "Miscellaneous",
             "Acquisition Information"
-        ]
+        ]):
 
         # Prepend the labels array to all of the files
         for file in files:
