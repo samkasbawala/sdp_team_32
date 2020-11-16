@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "SEA201903280","benia002","T",0
 "SEA201903280","bettm001","T",1
 "SEA201903280","dever001","T",1

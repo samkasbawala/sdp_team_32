@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "SFN201504130","blacc001","T",1
 "SFN201504130","gonzc001","T",0
 "SFN201504130","tulot001","T",0

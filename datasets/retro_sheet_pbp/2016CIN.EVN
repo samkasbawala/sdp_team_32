@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "CIN201604040","hernc005","T",2
 "CIN201604040","herro001","T",0
 "CIN201604040","franm004","T",0

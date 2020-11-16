@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "PHI201504060","bettm001","T",0
 "PHI201504060","pedrd001","T",4
 "PHI201504060","ortid001","T",0

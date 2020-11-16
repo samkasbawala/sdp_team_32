@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "COL201804060","incie001","T",0
 "COL201804060","albio001","T",4
 "COL201804060","freef001","F",0

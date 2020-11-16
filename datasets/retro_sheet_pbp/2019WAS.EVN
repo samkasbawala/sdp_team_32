@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "WAS201903280","nimmb001","T",0
 "WAS201903280","alonp001","T",0
 "WAS201903280","canor001","T",4

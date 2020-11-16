@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "SLN201904050","kinsi001","T",0
 "SLN201904050","hosme001","T",0
 "SLN201904050","machm001","F",0

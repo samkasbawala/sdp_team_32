@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "TOR201903280","harrj002","F",0
 "TOR201903280","castn001","T",0
 "TOR201903280","cabrm001","T",0

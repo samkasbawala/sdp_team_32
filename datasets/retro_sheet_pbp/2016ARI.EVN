@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "ARI201604040","blacc001","T",0
 "ARI201604040","stort001","T",0
 "ARI201604040","gonzc001","T",0

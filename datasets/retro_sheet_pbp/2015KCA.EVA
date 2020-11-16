@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "KCA201504060","eatoa002","T",0
 "KCA201504060","cabrm002","T",1
 "KCA201504060","abrej003","T",0

@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "ATL201904010","almoa002","T",0
 "ATL201904010","bryak001","T",2
 "ATL201904010","rizza001","T",0

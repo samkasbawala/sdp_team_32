@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "CLE201504100","gosea001","T",1
 "CLE201504100","kinsi001","F",0
 "CLE201504100","kinsi001","T",0

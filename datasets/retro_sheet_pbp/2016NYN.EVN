@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "NYN201604080","galvf001","T",0
 "NYN201604080","hernc005","T",1
 "NYN201604080","herro001","F",0

@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "NYA201604050","altuj001","T",0
 "NYA201604050","sprig001","T",0
 "NYA201604050","corrc001","T",0

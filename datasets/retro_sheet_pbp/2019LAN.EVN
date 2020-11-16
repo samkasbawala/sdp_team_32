@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "LAN201903280","jonea003","T",0
 "LAN201903280","escoe001","T",1
 "LAN201903280","florw001","T",0

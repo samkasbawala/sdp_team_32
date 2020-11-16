@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "COL201404040","parrg001","T",0
 "COL201404040","hilla001","T",0
 "COL201404040","goldp001","F",0

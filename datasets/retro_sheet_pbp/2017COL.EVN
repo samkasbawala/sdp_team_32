@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "COL201704070","forsl001","T",0
 "COL201704070","gutif001","T",0
 "COL201704070","turnj001","T",1

@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "BOS201904090","galvf001","T",0
 "BOS201904090","hernt002","T",0
 "BOS201904090","drurb001","T",0

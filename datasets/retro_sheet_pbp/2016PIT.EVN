@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "PIT201604030","carpm002","T",0
 "PIT201604030","phamt001","T",0
 "PIT201604030","hollm001","T",0

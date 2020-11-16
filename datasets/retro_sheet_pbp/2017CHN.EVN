@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "CHN201704100","forsl001","T",0
 "CHN201704100","seagc001","T",0
 "CHN201704100","turnj001","T",0

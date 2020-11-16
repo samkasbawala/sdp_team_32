@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "ATL201803290","hernc005","T",1
 "ATL201803290","santc002","T",0
 "ATL201803290","willn001","F",0

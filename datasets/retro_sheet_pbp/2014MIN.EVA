@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "MIN201404070","fulds001","T",0
 "MIN201404070","lowrj001","T",0
 "MIN201404070","donaj001","T",0

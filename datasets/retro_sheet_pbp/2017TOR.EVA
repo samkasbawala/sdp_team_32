@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "TOR201704110","villj001","T",0
 "TOR201704110","broxk001","T",4
 "TOR201704110","braur002","T",0

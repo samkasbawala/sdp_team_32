@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "HOU201904050","grosr001","T",0
 "HOU201904050","chapm001","T",0
 "HOU201904050","piscs001","T",0

@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "TEX201403310","reveb001","T",0
 "TEX201403310","rollj001","T",0
 "TEX201403310","utlec001","T",0

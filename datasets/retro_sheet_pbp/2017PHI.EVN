@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "PHI201704070","turnt001","T",0
 "PHI201704070","eatoa002","F",0
 "PHI201704070","harpb003","T",4

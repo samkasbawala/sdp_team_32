@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "WAS201804050","confm001","T",0
 "WAS201804050","cabra002","T",0
 "WAS201804050","cespy001","T",0

@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "MIA201403310","blacc001","T",0
 "MIA201403310","cuddm001","T",1
 "MIA201403310","gonzc001","T",1

@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "ANA201804020","lindf001","T",0
 "ANA201804020","kipnj001","T",0
 "ANA201804020","ramij003","T",0

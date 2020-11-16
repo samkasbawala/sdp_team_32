@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "PIT201403310","bonie001","T",1
 "PIT201403310","lakej001","F",0
 "PIT201403310","lakej001","T",0

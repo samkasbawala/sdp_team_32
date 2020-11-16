@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "ATL201404080","youne003","T",1
 "ATL201404080","murpd006","T",0
 "ATL201404080","wrigd002","F",0

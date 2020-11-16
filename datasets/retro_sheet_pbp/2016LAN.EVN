@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "LAN201604120","seguj002","F",0
 "LAN201604120","brits001","T",0
 "LAN201604120","goldp001","T",0

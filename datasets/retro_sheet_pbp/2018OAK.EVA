@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "OAK201803290","cozaz001","T",0
 "OAK201803290","troum001","T",0
 "OAK201803290","uptoj001","T",0

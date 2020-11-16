@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "SDN201403300","crawc002","T",0
 "SDN201403300","puigy001","T",0
 "SDN201403300","ramih003","T",0

@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "ARI201803290","blacc001","T",0
 "ARI201803290","lemad001","T",4
 "ARI201803290","arenn001","T",1

@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "ARI201904050","benia002","T",0
 "ARI201904050","bettm001","T",0
 "ARI201904050","morem001","T",0

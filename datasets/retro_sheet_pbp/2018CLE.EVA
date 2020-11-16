@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "CLE201804060","jay-j001","T",1
 "CLE201804060","merrw001","T",2
 "CLE201804060","mousm001","T",0

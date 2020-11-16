@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "ATL201604040","reveb001","T",0
 "ATL201604040","renda001","T",1
 "ATL201604040","harpb003","F",0

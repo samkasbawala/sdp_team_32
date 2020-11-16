@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "KCA201903280","garcl004","T",0
 "KCA201903280","moncy001","T",0
 "KCA201903280","abrej003","T",0

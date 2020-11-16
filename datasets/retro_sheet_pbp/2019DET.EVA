@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "DET201904040","merrw001","T",0
 "DET201904040","mondr003","T",0
 "DET201904040","gorda001","F",0

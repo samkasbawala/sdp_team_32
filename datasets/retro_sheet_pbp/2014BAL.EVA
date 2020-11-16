@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "BAL201403310","navad002","T",0
 "BAL201403310","pedrd001","T",1
 "BAL201403310","ortid001","T",0

@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "TOR201604080","bettm001","T",0
 "TOR201604080","pedrd001","T",0
 "TOR201604080","bogax001","T",0

@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "MIN201903280","martl004","T",0
 "MIN201903280","ramij003","T",0
 "MIN201903280","naqut001","T",0

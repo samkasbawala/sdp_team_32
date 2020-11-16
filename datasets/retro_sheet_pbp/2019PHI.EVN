@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "PHI201903280","incie001","T",0
 "PHI201903280","donaj001","T",0
 "PHI201903280","freef001","T",0

@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "CIN201903280","fraza001","T",0
 "CIN201903280","cabrm002","T",0
 "CIN201903280","dickc002","F",0

@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "SEA201504060","calhk001","T",0
 "SEA201504060","troum001","T",4
 "SEA201504060","pujoa001","T",0

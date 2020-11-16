@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "DET201704070","holtb002","T",0
 "DET201704070","pedrd001","T",0
 "DET201704070","benia002","F",0

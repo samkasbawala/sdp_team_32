@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "WAS201504060","granc001","F",0
 "WAS201504060","wrigd002","T",0
 "WAS201504060","dudal001","T",0

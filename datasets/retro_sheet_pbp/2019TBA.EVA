@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "TBA201903280","sprig001","T",0
 "TBA201903280","altuj001","T",0
 "TBA201903280","brega001","T",0

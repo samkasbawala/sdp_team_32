@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "LAN201404040","pagaa001","T",0
 "LAN201404040","pench001","T",0
 "LAN201404040","sandp001","F",0

@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "SDN201903280","duggs001","T",0
 "SDN201903280","beltb001","T",0
 "SDN201903280","longe001","T",1

@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "SEA201604080","burnb002","T",1
 "SEA201604080","lowrj001","F",0
 "SEA201604080","lowrj001","T",0

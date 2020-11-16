@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "CIN201803300","eatoa002","T",1
 "CIN201803300","renda001","T",0
 "CIN201803300","harpb003","T",1

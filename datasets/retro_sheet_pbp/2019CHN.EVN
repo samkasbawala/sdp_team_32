@@ -1,4 +1,4 @@
-event_id,player_id,ab_flag,hit_value
+game_id,player_id,ab_flag,hit_value
 "CHN201904080","fraza001","T",0
 "CHN201904080","marts002","T",0
 "CHN201904080","cervf001","F",0
