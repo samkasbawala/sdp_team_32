@@ -14,7 +14,7 @@ Welcome to our Senior Design Project. This repository is is the result of the jo
 [Back to top](#table-of-contents)
 
 ------
-In this project, we will be utilizing Jupyter Notebooks in order to visualize data and also use Scikit Learn's built in functionality. Jupyter Notebooks allows us to write supporting text that explains our thought process and will be able to provide explanation for the code. We will also be using pandas and numpy. These are all typical python libraries that used in many data science projects. Before we install the required dependencies, it's a good idea to create a new virtual environment. *DISCLAIMER: This project uses Python 3.8, but any Python version above 3.5 should work*
+In this project, we will be utilizing Jupyter Notebooks in order to visualize data and also use Scikit Learn's built in functionality. Jupyter Notebooks allows us to write supporting text that explains our thought process and will be able to provide explanation for the code. We will also be using pandas and numpy. These are all typical python libraries that used in many data science projects. Before we install the required dependencies, it's a good idea to create a new virtual environment. *DISCLAIMER: This project uses Python 3.8, but any Python version above 3.6 should work. TENSORFLOW NEEDS A 64-bit INSTALL OF PYTHON. FOR BEST RESULTS, USE Python VERSION 3.8.0*
 
 
 ### Download Python
