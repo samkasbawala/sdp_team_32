@@ -12,4 +12,6 @@ datasets/team_stats/.ipynb_checkpoints/*
 datasets/games_by_teams/.ipynb_checkpoints/*
 datasets/retro_sheet_pbp_new/.ipynb_checkpoints/*
 datasets/starting_lineups/.ipynb_checkpoints/*
+datasets/player_stats/,ipynb_checkpoints/*
 Untitled.ipynb
+env/
