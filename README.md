@@ -57,6 +57,10 @@ Last step, now we have to actually install all of the dependencies. These are th
 ```
 $ pip3 install --upgrade -r requirements.txt
 ```
+If you have previously install all of the requirements, you may need to install the sportsreference package separately as it was not originally included. You can do this by retyping the code above. Alternatively, you may type
+```
+$ pip3 install --upgrade sportsreference
+```
 Now you are done! In order to open the Jupyter Notebook(s), you need to start the jupyter notebook server. You can do this by typing
 ```
 $ jupyter notebook
