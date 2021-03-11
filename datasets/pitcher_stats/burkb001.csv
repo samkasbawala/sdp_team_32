@@ -1,7 +1,7 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,TEX201908202,30,31,4,0,0,0,0,2,0,,0,6,0.0,0.0
-0,CHA201908250,32,32,5,0,0,0,0,3,0,,1,6,1.5,2.0
-0,TEX201908310,31,28,2,0,0,0,0,1,0,,2,6,3.0,0.0
-0,BAL201909060,31,18,1,0,0,0,0,2,0,,6,5,10.8,0.0
-0,TEX201909130,27,23,2,0,0,0,0,1,0,,6,3,18.0,0.0
-0,OAK201909210,17,12,0,0,0,0,0,2,0,,7,1,63.0,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,BAL201909060,burkb001,31,18,3,6,1,0,0,0,0,2,0,0,6,5.0
+0,OAK201909210,burkb001,17,12,0,5,0,0,0,0,0,2,0,0,5,0.6666666666666666
+0,TEX201908202,burkb001,30,31,0,4,4,0,0,0,0,2,0,0,0,6.0
+0,TEX201908310,burkb001,31,28,0,7,2,0,0,0,0,1,0,0,2,6.0
+0,CHA201908250,burkb001,32,32,0,2,5,0,0,0,0,3,0,2,1,6.0
+0,TEX201909130,burkb001,27,23,3,6,2,0,0,0,0,1,0,0,6,3.0

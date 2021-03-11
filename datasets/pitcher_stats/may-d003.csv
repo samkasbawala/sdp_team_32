@@ -1,5 +1,5 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,LAN201908020,33,32,3,0,1,0,0,0,0,,3,6,4.5,0.0
-0,LAN201908070,21,34,7,0,0,0,0,1,0,,1,6,1.5,0.0
-0,MIA201908130,29,29,5,0,0,0,0,1,0,,1,6,1.5,1.0
-0,SDN201908260,33,22,2,0,0,0,0,1,0,,2,6,3.0,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,MIA201908130,may-d003,29,29,0,3,5,0,0,0,0,1,0,1,1,5.333333333333333
+0,LAN201908020,may-d003,33,32,0,9,3,0,1,0,0,0,0,0,3,5.666666666666667
+0,LAN201908070,may-d003,21,34,1,5,7,0,0,0,0,1,0,0,1,5.666666666666667
+0,SDN201908260,may-d003,33,22,0,4,2,0,0,0,0,1,0,0,2,5.333333333333333

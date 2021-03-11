@@ -1,8 +1,8 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,NYN201404040,30,36,8,0,0,0,0,5,0,,1,6,1.5,0.0
-0,ATL201404100,29,37,7,0,0,2,0,4,0,,4,5,7.2,0.0
-0,ARI201404150,27,26,3,0,0,0,0,2,0,,0,5,0.0,0.0
-0,NYN201404210,33,31,7,0,0,0,0,3,0,,0,7,0.0,0.0
-0,NYN201404260,25,30,6,0,0,0,0,1,0,,6,6,9.0,0.0
-0,COL201405030,24,17,3,0,0,0,0,2,0,,8,5,14.4,1.0
-0,NYN201405090,36,34,4,0,0,0,0,3,0,,2,5,3.6,1.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,NYN201405090,mejij001,36,34,0,6,4,0,0,0,0,3,0,1,2,4.666666666666667
+0,ARI201404150,mejij001,27,26,0,2,3,0,0,0,0,2,0,0,0,5.0
+0,ATL201404100,mejij001,29,37,2,6,7,0,0,2,0,4,0,0,4,5.0
+0,NYN201404040,mejij001,30,36,0,4,8,0,0,0,0,5,0,0,1,6.0
+0,NYN201404210,mejij001,33,31,0,4,7,0,0,0,0,3,0,0,0,6.666666666666667
+0,COL201405030,mejij001,24,17,2,9,3,0,0,0,0,2,0,1,8,4.333333333333333
+0,NYN201404260,mejij001,25,30,1,8,6,0,0,0,0,1,0,0,4,5.666666666666667

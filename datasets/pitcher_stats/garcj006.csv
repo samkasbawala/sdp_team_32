@@ -1,8 +1,8 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,MIA201804110,31,24,3,0,0,0,0,2,0,,0,6,0.0,0.0
-0,NYA201804170,39,30,2,0,0,0,0,5,0,,0,5,0.0,0.0
-0,LAN201804230,30,34,7,0,0,0,0,1,0,,1,6,1.5,0.0
-0,MIA201805010,29,26,3,0,0,0,0,1,0,,1,6,1.5,0.0
-0,CHN201805070,28,28,3,0,0,0,1,2,0,,7,4,15.75,0.0
-0,MIA201805120,28,27,4,0,0,0,0,2,0,,4,6,6.0,0.0
-0,PHI201809150,4,4,0,0,0,0,0,0,0,,0,1,0.0,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,NYA201804170,garcj006,39,30,0,1,2,0,0,0,0,5,0,0,0,5.0
+0,MIA201804110,garcj006,31,24,0,0,3,0,0,0,0,2,0,0,0,6.0
+0,PHI201809150,garcj006,4,4,0,0,0,0,0,0,0,0,0,0,0,1.0
+0,MIA201805010,garcj006,29,26,0,5,3,0,0,0,0,1,0,0,1,6.0
+0,CHN201805070,garcj006,28,28,3,6,3,0,0,0,1,2,0,0,7,4.0
+0,MIA201805120,garcj006,28,27,3,7,4,0,0,0,0,2,0,0,4,5.666666666666667
+0,LAN201804230,garcj006,30,34,1,4,7,0,0,0,0,1,0,0,1,6.0

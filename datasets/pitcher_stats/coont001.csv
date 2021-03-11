@@ -1,7 +1,7 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,SLN201504300,23,13,3,0,0,0,0,1,0,,3,3,9.0,0.0
-0,SLN201507020,32,30,6,0,1,0,0,1,1,,2,6,3.0,0.0
-0,CHN201507072,33,24,3,0,0,0,0,1,0,,1,6,1.5,1.0
-0,PIT201507120,28,24,5,0,0,0,0,1,1,,3,5,5.4,0.0
-0,SLN201507190,35,34,7,0,0,0,0,4,0,,0,6,0.0,0.0
-0,SLN201507240,21,26,5,0,0,1,0,0,0,,2,7,2.5714285714285716,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,SLN201504300,coont001,23,13,1,7,3,0,0,0,0,1,0,0,2,2.3333333333333335
+0,CHN201507072,coont001,33,24,0,3,3,0,0,0,0,1,0,1,1,5.333333333333333
+0,SLN201507020,coont001,32,30,2,4,6,0,1,0,0,1,1,0,2,6.0
+0,SLN201507240,coont001,21,26,0,5,5,0,0,1,0,0,0,0,2,7.0
+0,PIT201507120,coont001,28,24,0,6,5,0,0,0,0,1,1,0,3,5.0
+0,SLN201507190,coont001,35,34,0,3,7,0,0,0,0,4,0,0,0,5.666666666666667

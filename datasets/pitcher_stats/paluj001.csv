@@ -1,5 +1,5 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,TEX201906081,22,22,4,0,0,0,0,0,0,,4,4,9.0,1.0
-0,TEX201906190,22,18,1,0,0,0,0,3,0,,7,3,21.0,1.0
-0,TEX201908201,15,12,2,0,0,0,0,2,0,,3,2,13.5,0.0
-0,TEX201909270,25,24,7,0,0,0,0,1,0,,3,4,6.75,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,TEX201906190,paluj001,22,18,2,6,1,0,0,0,0,3,0,1,7,2.0
+0,TEX201909270,paluj001,25,24,3,5,7,0,0,0,0,1,0,0,3,3.0
+0,TEX201908201,paluj001,15,12,1,3,2,0,0,0,0,2,0,0,3,1.6666666666666665
+0,TEX201906081,paluj001,22,22,1,6,4,0,0,0,0,0,0,1,4,4.0

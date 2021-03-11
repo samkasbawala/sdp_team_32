@@ -1,8 +1,8 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,COL201907020,28,27,4,0,0,2,0,1,0,,2,4,4.5,0.0
-0,HOU201907070,19,23,4,0,0,1,0,0,0,,5,3,15.0,0.0
-0,HOU201907200,35,34,9,0,0,0,0,0,0,,1,7,1.2857142857142858,0.0
-0,SLN201907260,29,32,6,0,0,0,0,2,0,,1,6,1.5,0.0
-0,CLE201907310,30,31,1,0,0,0,0,1,0,,6,5,10.8,0.0
-0,HOU201909110,26,30,10,0,0,0,0,1,0,,1,5,1.8,0.0
-0,ANA201909270,31,25,2,0,0,0,0,1,0,,0,6,0.0,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,SLN201907260,urquj001,29,32,0,4,6,0,0,0,0,2,0,0,1,6.0
+0,COL201907020,urquj001,28,27,0,6,4,0,0,2,0,1,0,0,2,3.6666666666666665
+0,HOU201909110,urquj001,26,30,1,1,10,0,0,0,0,1,0,0,1,5.0
+0,ANA201909270,urquj001,31,25,0,3,2,0,0,0,0,1,0,0,0,6.0
+0,HOU201907200,urquj001,35,34,1,2,9,0,0,0,0,0,0,0,1,7.0
+0,CLE201907310,urquj001,30,31,2,8,1,0,0,0,0,1,0,0,6,4.0
+0,HOU201907070,urquj001,19,23,1,8,4,0,0,1,0,0,0,0,5,2.3333333333333335

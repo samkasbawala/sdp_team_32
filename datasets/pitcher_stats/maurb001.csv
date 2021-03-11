@@ -1,8 +1,8 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,MIA201404200,25,19,4,0,0,0,0,2,0,,1,5,1.8,0.0
-0,SEA201404270,27,27,3,0,0,0,0,1,0,,5,4,11.25,0.0
-0,HOU201405040,33,27,3,0,0,0,0,2,0,,4,5,7.2,0.0
-0,SEA201405090,26,33,0,0,0,0,0,0,0,,4,8,4.5,0.0
-0,SEA201405140,34,24,3,0,0,0,0,4,0,,2,4,4.5,0.0
-0,SEA201405240,26,21,2,0,0,0,0,1,0,,6,5,10.8,0.0
-0,SEA201405290,31,29,2,0,0,1,0,4,0,,5,4,11.25,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,MIA201404200,maurb001,25,19,0,2,4,0,0,0,0,2,0,0,1,4.333333333333333
+0,SEA201405290,maurb001,31,29,1,6,2,0,0,1,0,4,0,0,5,4.0
+0,SEA201405240,maurb001,26,21,2,6,2,0,0,0,0,1,0,0,6,4.333333333333333
+0,SEA201404270,maurb001,27,27,0,7,3,0,0,0,0,1,0,0,5,3.6666666666666665
+0,HOU201405040,maurb001,33,27,2,6,3,0,0,0,0,2,0,0,4,5.0
+0,SEA201405090,maurb001,26,33,0,14,0,0,0,0,0,0,0,0,4,7.333333333333333
+0,SEA201405140,maurb001,34,24,0,2,3,0,0,0,0,4,0,0,1,3.6666666666666665

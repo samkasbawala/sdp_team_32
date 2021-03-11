@@ -1,3 +1,3 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,BAL201809140,16,11,0,0,0,0,0,1,0,,1,2,4.5,0.0
-0,BAL201906140,31,20,3,0,0,0,0,5,0,,4,4,9.0,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,BAL201809140,ortil002,16,11,0,4,0,0,0,0,0,1,0,0,1,1.6666666666666665
+0,BAL201906140,ortil002,31,20,2,4,3,0,0,0,0,5,0,0,3,3.3333333333333335

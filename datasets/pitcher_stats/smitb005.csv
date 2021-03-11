@@ -1,7 +1,7 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,MIN201807110,18,26,4,0,0,0,0,1,0,,4,4,9.0,0.0
-0,CHA201807150,10,10,2,0,0,0,0,0,0,,2,2,9.0,0.0
-0,KCA201807240,34,30,6,0,0,0,0,2,0,,2,7,2.5714285714285716,0.0
-0,NYA201807290,27,32,4,0,1,0,0,3,0,,5,5,9.0,0.0
-0,MIN201808040,35,30,4,0,0,0,0,2,0,,6,6,9.0,0.0
-0,KCA201808100,19,14,0,0,0,0,0,1,0,,5,2,22.5,1.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,KCA201808100,smitb005,19,14,2,6,0,0,0,0,0,1,0,1,5,1.6666666666666665
+0,MIN201808040,smitb005,35,30,2,7,4,0,0,0,0,2,0,0,4,5.0
+0,CHA201807150,smitb005,10,10,1,3,2,0,0,0,0,0,0,0,2,2.0
+0,MIN201807110,smitb005,18,26,0,7,4,0,0,0,0,1,0,0,2,3.3333333333333335
+0,NYA201807290,smitb005,27,32,1,5,4,0,1,0,0,3,0,0,3,4.0
+0,KCA201807240,smitb005,34,30,0,1,6,0,0,0,0,2,0,0,0,6.333333333333333

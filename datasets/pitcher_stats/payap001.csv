@@ -1,5 +1,5 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,OAK201907280,31,28,4,0,0,0,0,4,0,,3,6,4.5,0.0
-0,TEX201908040,33,24,2,0,1,0,0,3,0,,2,5,3.6,0.0
-0,MIL201908100,27,22,1,0,0,1,0,3,0,,2,3,6.0,1.0
-0,TEX201908150,35,23,3,0,0,0,0,3,0,,6,4,13.5,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,TEX201908150,payap001,35,23,1,6,3,0,0,0,0,3,0,0,4,3.3333333333333335
+0,TEX201908040,payap001,33,24,0,6,2,0,1,0,0,3,0,0,2,4.333333333333333
+0,OAK201907280,payap001,31,28,1,6,4,0,0,0,0,4,0,0,1,5.333333333333333
+0,MIL201908100,payap001,27,22,1,5,1,0,0,1,0,3,0,1,2,3.0

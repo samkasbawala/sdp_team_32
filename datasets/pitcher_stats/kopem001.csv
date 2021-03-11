@@ -1,5 +1,5 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,CHA201808210,16,19,4,0,0,0,0,0,0,,0,2,0.0,1.0
-0,DET201808260,23,32,4,0,0,0,0,0,0,,1,6,1.5,2.0
-0,CHA201808310,11,10,1,0,0,0,0,1,0,,0,3,0.0,2.0
-0,CHA201809050,26,28,6,0,0,1,0,1,0,,7,4,15.75,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,DET201808260,kopem001,23,32,0,7,4,0,0,0,0,0,0,2,1,5.666666666666667
+0,CHA201808310,kopem001,11,10,0,1,1,0,0,0,0,1,0,2,0,3.0
+0,CHA201808210,kopem001,16,19,0,3,4,0,0,0,0,0,0,1,0,2.0
+0,CHA201809050,kopem001,26,28,4,9,6,0,0,1,0,1,0,0,6,3.3333333333333335

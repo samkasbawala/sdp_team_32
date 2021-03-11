@@ -1,4 +1,4 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,TOR201506100,30,35,4,0,0,0,0,0,0,,1,7,1.2857142857142858,0.0
-0,NYN201506160,26,25,1,0,0,0,0,0,0,,3,4,6.75,0.0
-0,TOR201506210,12,15,1,0,0,0,0,0,0,,7,2,31.5,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,NYN201506160,copes001,26,25,0,8,1,0,0,0,0,0,0,0,3,4.0
+0,TOR201506210,copes001,12,15,1,8,1,0,0,0,0,0,0,0,7,1.3333333333333333
+0,TOR201506100,copes001,30,35,0,6,4,0,0,0,0,0,0,0,1,7.0

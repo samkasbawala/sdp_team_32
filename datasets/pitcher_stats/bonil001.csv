@@ -1,8 +1,8 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,TEX201409130,31,23,3,0,0,0,0,4,0,,2,6,3.0,0.0
-0,ANA201409190,34,26,4,0,0,0,0,4,0,,2,5,3.6,0.0
-0,TEX201409240,41,31,7,0,0,1,0,2,0,,0,6,0.0,1.0
-0,SFN201705130,28,34,5,0,0,0,0,2,0,,3,8,3.375,0.0
-0,CIN201705190,35,38,3,0,0,0,0,3,0,,6,6,9.0,1.0
-0,CLE201705240,29,24,2,0,0,0,0,3,0,,3,5,5.4,0.0
-0,TOR201705290,31,19,0,0,0,1,0,5,0,,6,3,18.0,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,SFN201705130,bonil001,28,34,2,6,5,0,0,0,0,2,0,0,3,8.0
+0,CIN201705190,bonil001,35,38,1,8,3,0,0,0,0,3,0,1,5,5.333333333333333
+0,TEX201409240,bonil001,41,31,0,4,7,0,0,1,0,2,0,1,0,6.0
+0,TOR201705290,bonil001,31,19,1,3,0,0,0,1,0,5,0,0,3,2.3333333333333335
+0,TEX201409130,bonil001,31,23,0,4,3,0,0,0,0,4,0,0,2,6.0
+0,ANA201409190,bonil001,34,26,1,2,4,0,0,0,0,4,0,0,2,5.0
+0,CLE201705240,bonil001,29,24,1,6,2,0,0,0,0,3,0,0,3,5.0

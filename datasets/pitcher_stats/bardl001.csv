@@ -1,4 +1,4 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,ANA201905010,8,6,2,0,0,0,0,0,0,,0,1,0.0,0.0
-0,DET201905090,5,4,0,0,0,0,0,0,0,,0,1,0.0,0.0
-0,OAK201909050,10,7,1,0,0,0,0,0,0,,1,1,9.0,1.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,DET201905090,bardl001,5,4,0,2,0,0,0,0,0,0,0,0,0,1.0
+0,ANA201905010,bardl001,8,6,0,0,2,0,0,0,0,0,0,0,0,1.0
+0,OAK201909050,bardl001,10,7,0,1,1,0,0,0,0,0,0,1,1,1.0

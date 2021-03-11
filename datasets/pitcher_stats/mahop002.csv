@@ -1,9 +1,9 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,LAN201404050,31,22,1,0,0,0,0,2,0,,5,5,9.0,0.0
-0,SFN201404160,36,29,2,0,0,1,0,3,0,,1,6,1.5,0.0
-0,LAN201404210,46,31,2,0,0,0,0,3,0,,4,5,7.2,0.0
-0,LAN201404260,29,26,3,0,1,0,0,1,0,,2,7,2.5714285714285716,0.0
-0,MIA201405030,40,31,3,0,0,0,0,2,0,,3,6,4.5,0.0
-0,LAN201405090,33,27,2,0,0,0,0,3,1,,3,6,4.5,1.0
-0,LAN201405140,37,27,0,0,0,0,0,3,0,,5,4,11.25,0.0
-0,LAN201407120,20,23,4,0,0,0,0,0,0,,0,7,0.0,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,LAN201404260,mahop002,29,26,0,6,3,0,1,0,0,1,0,0,2,7.0
+0,LAN201405090,mahop002,33,27,1,3,2,0,0,0,0,3,1,1,3,5.666666666666667
+0,LAN201405140,mahop002,37,27,2,11,0,0,0,0,0,3,0,0,4,3.6666666666666665
+0,LAN201407120,mahop002,20,23,0,2,4,0,0,0,0,0,0,0,0,6.0
+0,LAN201404050,mahop002,31,22,2,7,1,0,0,0,0,2,0,0,5,4.333333333333333
+0,SFN201404160,mahop002,36,29,0,5,2,0,0,1,0,3,0,0,1,6.0
+0,MIA201405030,mahop002,40,31,2,9,3,0,0,0,0,2,0,0,3,6.0
+0,LAN201404210,mahop002,46,31,1,8,2,0,0,0,0,3,0,0,4,5.0

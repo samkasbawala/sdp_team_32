@@ -1,5 +1,5 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,MIN201808200,20,15,3,0,0,0,0,2,0,,4,2,18.0,1.0
-0,MIN201808250,38,25,2,0,1,0,0,4,0,,4,5,7.2,0.0
-0,TEX201808310,32,26,0,0,0,0,0,4,0,,3,4,6.75,0.0
-0,MIN201809070,19,17,1,0,1,1,0,3,0,,5,3,15.0,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,TEX201808310,gonss001,32,26,1,6,0,0,0,0,0,4,0,0,3,3.6666666666666665
+0,MIN201808250,gonss001,38,25,1,7,2,0,1,0,0,4,0,0,4,5.0
+0,MIN201808200,gonss001,20,15,0,6,3,0,0,0,0,2,0,1,4,1.3333333333333333
+0,MIN201809070,gonss001,19,17,0,5,1,0,1,1,0,3,0,0,3,2.3333333333333335

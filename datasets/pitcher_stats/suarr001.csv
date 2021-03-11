@@ -1,4 +1,4 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,CIN201807260,29,24,3,0,0,0,0,1,0,,4,6,6.0,0.0
-0,PHI201808161,24,19,2,0,0,0,1,2,0,,4,5,7.2,0.0
-0,PHI201809300,16,16,5,0,0,0,0,2,0,,1,3,3.0,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,PHI201809300,suarr001,16,16,0,1,5,0,0,0,0,2,0,0,1,3.0
+0,CIN201807260,suarr001,29,24,2,6,3,0,0,0,0,1,0,0,4,5.0
+0,PHI201808161,suarr001,24,19,1,11,2,0,0,0,1,2,0,0,4,4.0

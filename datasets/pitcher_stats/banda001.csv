@@ -1,6 +1,6 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,ARI201707220,27,28,5,0,0,0,0,0,0,,4,6,6.0,0.0
-0,SFN201708040,33,29,7,0,0,0,0,4,0,,1,6,1.5,1.0
-0,ARI201708100,25,24,4,0,0,1,0,1,0,,3,4,6.75,1.0
-0,ARI201708150,36,29,3,0,0,1,0,2,1,,8,4,18.0,1.0
-0,KCA201805150,14,17,1,0,0,0,0,0,0,,3,5,5.4,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,SFN201708040,banda001,33,29,0,3,7,0,0,0,0,4,0,1,1,6.0
+0,KCA201805150,banda001,14,17,0,6,1,0,0,0,0,0,0,0,3,4.666666666666667
+0,ARI201708100,banda001,25,24,0,4,4,0,0,1,0,1,0,1,3,4.0
+0,ARI201707220,banda001,27,28,1,7,5,0,0,0,0,0,0,0,3,5.666666666666667
+0,ARI201708150,banda001,36,29,0,9,3,0,0,1,0,2,1,1,8,4.0

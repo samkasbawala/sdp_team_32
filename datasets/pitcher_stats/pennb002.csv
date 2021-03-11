@@ -1,5 +1,5 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,CIN201408090,37,29,3,0,0,0,0,4,0,,1,5,1.8,0.0
-0,MIA201408140,41,28,3,0,0,0,0,3,0,,4,6,6.0,0.0
-0,MIA201409020,19,18,2,0,0,1,0,1,0,,4,3,12.0,0.0
-0,MIL201409080,21,23,1,0,0,1,0,3,0,,2,6,3.0,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,MIL201409080,pennb002,21,23,0,4,1,0,0,1,0,3,0,0,2,5.666666666666667
+0,CIN201408090,pennb002,37,29,1,4,3,0,0,0,0,4,0,0,1,5.0
+0,MIA201409020,pennb002,19,18,0,7,2,0,0,1,0,1,0,0,4,3.0
+0,MIA201408140,pennb002,41,28,0,5,3,0,0,0,0,3,0,0,4,5.0

@@ -1,5 +1,5 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,SEA201909120,18,9,0,0,0,0,0,5,0,,2,1,18.0,0.0
-0,PIT201909180,14,12,1,0,0,0,0,3,0,,0,2,0.0,0.0
-0,SEA201909240,9,11,1,0,0,0,0,0,0,,0,2,0.0,0.0
-0,SEA201909290,13,10,3,0,0,0,0,1,0,,0,2,0.0,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,SEA201909240,dunnj002,9,11,0,1,1,0,0,0,0,0,0,0,0,2.0
+0,SEA201909120,dunnj002,18,9,0,0,0,0,0,0,0,5,0,0,2,0.6666666666666666
+0,PIT201909180,dunnj002,14,12,0,1,1,0,0,0,0,3,0,0,0,2.0
+0,SEA201909290,dunnj002,13,10,0,0,3,0,0,0,0,1,0,0,0,2.0

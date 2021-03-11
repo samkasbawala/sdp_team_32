@@ -1,4 +1,4 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,CLE201408132,40,30,3,0,1,1,0,2,0,,0,5,0.0,0.0
-0,ARI201409170,34,28,2,0,0,1,0,4,0,,2,6,3.0,0.0
-0,MIN201409230,26,22,5,0,0,0,0,1,1,,4,4,9.0,1.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,ARI201409170,chafa001,34,28,0,3,2,0,0,1,0,4,0,0,2,6.0
+0,MIN201409230,chafa001,26,22,0,7,5,0,0,0,0,1,1,1,4,3.0
+0,CLE201408132,chafa001,40,30,0,3,3,0,1,1,0,2,0,0,0,4.666666666666667

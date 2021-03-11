@@ -1,9 +1,9 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,CLE201704300,31,19,1,0,0,0,0,2,0,,6,3,18.0,0.0
-0,SEA201705060,23,25,3,0,0,0,0,0,0,,1,6,1.5,0.0
-0,TOR201705110,35,25,1,0,0,0,0,3,0,,6,5,10.8,0.0
-0,SEA201705160,36,32,4,0,0,0,0,3,0,,4,6,6.0,0.0
-0,MIN201809090,26,18,5,0,1,0,0,4,0,,0,4,0.0,0.0
-0,KCA201809150,25,24,4,0,1,0,0,0,0,,3,4,6.75,0.0
-0,OAK201809220,20,19,0,0,0,1,0,1,0,,2,5,3.6,0.0
-0,MIN201809282,26,24,4,0,0,1,0,1,0,,2,6,3.0,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,SEA201705160,dejoc001,36,32,1,7,4,0,0,0,0,3,0,0,4,6.0
+0,TOR201705110,dejoc001,35,25,1,7,1,0,0,0,0,3,0,0,6,5.0
+0,KCA201809150,dejoc001,25,24,0,8,4,0,1,0,0,0,0,0,3,3.3333333333333335
+0,MIN201809282,dejoc001,26,24,2,4,4,0,0,1,0,1,0,0,2,6.0
+0,MIN201809090,dejoc001,26,18,0,1,5,0,1,0,0,4,0,0,0,4.0
+0,CLE201704300,dejoc001,31,19,1,9,1,0,0,0,0,2,0,0,5,2.6666666666666665
+0,OAK201809220,dejoc001,20,19,1,5,0,0,0,1,0,1,0,0,2,4.333333333333333
+0,SEA201705060,dejoc001,23,25,1,4,3,0,0,0,0,0,0,0,1,6.0

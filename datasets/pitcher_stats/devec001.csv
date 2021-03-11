@@ -1,8 +1,8 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,OAK201604300,34,30,4,0,0,0,0,3,0,,2,5,3.6,0.0
-0,HOU201605050,35,34,6,0,0,0,0,1,0,,1,6,1.5,0.0
-0,HOU201605100,29,35,5,0,0,0,0,2,0,,2,7,2.5714285714285716,1.0
-0,BOS201605150,19,17,1,0,0,0,0,2,0,,6,2,27.0,0.0
-0,MIN201608112,20,27,5,0,0,0,0,0,0,,0,5,0.0,0.0
-0,TOR201809260,8,12,2,0,0,0,0,1,0,,2,2,9.0,0.0
-0,CHA201908132,11,15,0,0,1,0,0,0,0,,1,2,4.5,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,BOS201605150,devec001,19,17,1,5,1,0,0,0,0,2,0,0,6,2.0
+0,MIN201608112,devec001,20,27,0,2,5,0,0,0,0,0,0,0,0,5.0
+0,TOR201809260,devec001,8,12,1,1,2,0,0,0,0,1,0,0,2,2.0
+0,CHA201908132,devec001,11,15,0,5,0,0,1,0,0,0,0,0,1,2.0
+0,HOU201605050,devec001,35,34,0,6,6,0,0,0,0,1,0,0,1,6.0
+0,OAK201604300,devec001,34,30,0,5,4,0,0,0,0,3,0,0,2,5.0
+0,HOU201605100,devec001,29,35,0,5,5,0,0,0,0,2,0,1,2,6.666666666666667

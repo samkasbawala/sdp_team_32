@@ -1,3 +1,3 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,OAK201509260,15,20,0,0,0,0,0,1,0,,4,3,12.0,0.0
-0,ANA201509300,29,27,2,0,0,0,0,4,0,,2,4,4.5,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,ANA201509300,zitob001,29,27,2,4,2,0,0,0,0,4,0,0,2,3.6666666666666665
+0,OAK201509260,zitob001,15,20,1,6,0,0,0,0,0,1,0,0,4,2.0

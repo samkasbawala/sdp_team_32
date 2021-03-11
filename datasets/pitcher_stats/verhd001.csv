@@ -1,9 +1,9 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,DET201407191,27,22,4,0,1,0,0,3,0,,3,5,5.4,0.0
-0,BAL201708050,26,25,3,0,0,0,0,2,0,,2,5,3.6,0.0
-0,DET201708100,28,26,1,0,1,1,0,1,0,,6,4,13.5,0.0
-0,DET201806041,34,30,2,0,0,0,0,2,0,,7,4,15.75,0.0
-0,SEA201907250,27,27,4,0,0,0,0,4,0,,6,4,13.5,1.0
-0,ANA201907300,23,31,2,0,0,0,0,1,0,,3,5,5.4,0.0
-0,DET201908062,19,30,5,0,0,0,0,0,0,,1,5,1.8,0.0
-0,MIN201908230,39,33,11,0,0,0,0,1,0,,3,6,4.5,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,MIN201908230,verhd001,39,33,2,5,11,0,0,0,0,1,0,0,3,6.0
+0,DET201708100,verhd001,28,26,1,9,1,0,1,1,0,1,0,0,6,3.6666666666666665
+0,SEA201907250,verhd001,27,27,1,6,4,0,0,0,0,4,0,1,6,3.6666666666666665
+0,BAL201708050,verhd001,26,25,1,4,3,0,0,0,0,2,0,0,2,5.0
+0,DET201407191,verhd001,27,22,0,5,4,0,1,0,0,3,0,0,3,5.0
+0,DET201908062,verhd001,19,30,0,7,5,0,0,0,0,0,0,0,1,5.0
+0,DET201806041,verhd001,34,30,3,7,2,0,0,0,0,2,0,0,7,3.6666666666666665
+0,ANA201907300,verhd001,23,31,1,10,2,0,0,0,0,1,0,0,3,4.666666666666667

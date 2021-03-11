@@ -1,3 +1,3 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,CHN201906250,31,27,4,0,1,0,0,4,0,,1,5,1.8,0.0
-0,PIT201907010,18,16,3,0,0,0,0,1,0,,7,3,21.0,1.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,CHN201906250,alzoa001,31,27,1,1,4,0,1,0,0,4,0,0,1,4.666666666666667
+0,PIT201907010,alzoa001,18,16,2,10,3,0,0,0,0,1,0,1,7,2.6666666666666665

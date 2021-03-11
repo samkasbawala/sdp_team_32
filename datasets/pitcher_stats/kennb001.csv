@@ -1,7 +1,7 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,MIL201808080,27,32,3,0,0,1,0,0,0,,6,4,13.5,0.0
-0,SDN201808140,42,33,2,0,0,0,0,1,0,,5,5,9.0,0.0
-0,SDN201808190,35,25,4,0,0,0,0,2,1,,2,5,3.6,0.0
-0,LAN201808250,37,28,5,0,0,0,0,2,0,,3,5,5.4,1.0
-0,SDN201808310,30,29,2,0,0,0,0,2,0,,0,6,0.0,1.0
-0,CIN201809070,20,13,2,0,0,0,0,4,0,,4,2,18.0,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,CIN201809070,kennb001,20,13,0,1,2,0,0,0,0,4,0,0,1,1.6666666666666665
+0,SDN201808190,kennb001,35,25,1,6,4,0,0,0,0,2,1,0,2,5.0
+0,SDN201808140,kennb001,42,33,1,9,2,0,0,0,0,1,0,0,5,5.0
+0,MIL201808080,kennb001,27,32,3,11,3,0,0,1,0,0,0,0,6,4.0
+0,LAN201808250,kennb001,37,28,1,5,5,0,0,0,0,2,0,1,3,5.0
+0,SDN201808310,kennb001,30,29,0,4,2,0,0,0,0,2,0,1,0,6.0

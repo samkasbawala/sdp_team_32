@@ -1,4 +1,4 @@
-,Game ID,Balls,Strikes,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit By Pitch,Earned Runs,Innings Pitched,ERA,Hit by Pitch
-0,ARI201505100,24,17,5,0,0,0,0,2,0,,0,4,0.0,0.0
-0,PIT201806070,5,6,1,0,0,0,0,0,0,,0,1,0.0,0.0
-0,TOR201905100,3,5,1,0,0,0,0,0,0,,1,1,9.0,0.0
+,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,TOR201905100,hudsd001,3,5,0,2,1,0,0,0,0,0,0,0,1,1.0
+0,ARI201505100,hudsd001,24,17,0,2,5,0,0,0,0,2,0,0,0,3.3333333333333335
+0,PIT201806070,hudsd001,5,6,0,0,1,0,0,0,0,0,0,0,0,1.0
