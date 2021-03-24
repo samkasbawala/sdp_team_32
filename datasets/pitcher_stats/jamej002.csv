@@ -1,5 +1,7 @@
 ,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
+0,ANA202008020,jamej002,33,19,1,1,4,0,0,1,0,6,0,0,4,3.0
 0,HOU201809180,jamej002,30,30,0,4,7,0,0,0,0,2,0,0,0,5.333333333333333
-0,HOU201809010,jamej002,32,34,1,3,9,0,0,0,0,3,0,0,3,5.0
 0,ANA201907150,jamej002,8,5,0,0,1,0,0,0,0,0,0,0,0,1.0
 0,TOR201809250,jamej002,19,24,1,4,3,0,0,0,0,1,0,1,1,5.0
+0,HOU202007270,jamej002,30,23,1,3,5,0,0,1,0,5,0,1,3,3.0
+0,HOU201809010,jamej002,32,34,1,3,9,0,0,0,0,3,0,0,3,5.0

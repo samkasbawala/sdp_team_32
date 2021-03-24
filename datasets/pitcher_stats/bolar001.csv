@@ -1,4 +1,6 @@
 ,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
-0,ARI201909030,bolar001,35,26,0,5,4,0,0,0,0,2,0,0,2,6.0
-0,SDN201909100,bolar001,38,34,2,5,5,0,0,1,0,4,0,0,5,5.0
 0,SDN201909240,bolar001,35,23,0,3,4,0,0,0,0,5,0,1,1,3.6666666666666665
+0,SDN201909100,bolar001,38,34,2,5,5,0,0,1,0,4,0,0,5,5.0
+0,ARI201909030,bolar001,35,26,0,5,4,0,0,0,0,2,0,0,2,6.0
+0,KCA202008010,bolar001,19,9,2,5,1,0,0,0,0,2,0,0,5,1.6666666666666665
+0,CLE202007260,bolar001,9,10,0,3,1,0,0,1,0,1,0,1,0,1.6666666666666665

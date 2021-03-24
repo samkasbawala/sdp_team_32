@@ -1,5 +1,5 @@
 ,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
-0,OAK201704200,valdc003,30,23,0,5,4,0,0,0,0,2,0,0,3,4.0
-0,HOU201708040,valdc003,26,21,1,6,1,0,0,0,0,2,0,0,4,3.3333333333333335
-0,TOR201707250,valdc003,25,26,0,5,4,0,0,0,1,1,0,0,1,6.0
 0,TOR201707300,valdc003,18,15,1,7,2,0,0,0,0,0,1,0,5,2.0
+0,TOR201707250,valdc003,25,26,0,5,4,0,0,0,1,1,0,0,1,6.0
+0,HOU201708040,valdc003,26,21,1,6,1,0,0,0,0,2,0,0,4,3.3333333333333335
+0,OAK201704200,valdc003,30,23,0,5,4,0,0,0,0,2,0,0,3,4.0
