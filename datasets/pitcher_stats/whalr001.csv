@@ -1,7 +1,7 @@
 ,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
-0,MIL201608080,whalr001,34,32,1,5,7,0,0,0,0,1,0,0,3,6.0
 0,BOS201705270,whalr001,31,27,1,7,0,0,0,0,0,2,0,2,5,5.333333333333333
-0,ATL201608030,whalr001,38,30,1,4,5,0,0,1,0,4,0,2,4,5.0
-0,ARI201608230,whalr001,26,21,0,2,2,0,0,0,0,4,0,1,4,2.6666666666666665
+0,MIL201608080,whalr001,34,32,1,5,7,0,0,0,0,1,0,0,3,6.0
 0,ATL201608180,whalr001,44,38,0,3,6,0,0,0,0,3,0,0,1,6.0
 0,WAS201608130,whalr001,21,32,2,6,5,0,0,0,0,0,0,0,6,5.0
+0,ARI201608230,whalr001,26,21,0,2,2,0,0,0,0,4,0,1,4,2.6666666666666665
+0,ATL201608030,whalr001,38,30,1,4,5,0,0,1,0,4,0,2,4,5.0

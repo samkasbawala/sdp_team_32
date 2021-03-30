@@ -1,5 +1,5 @@
 ,Game ID,ID,Balls,Strikes,Homeruns Allowed,Hits Allowed,Strikeouts,Pickoff Errors,Pickoffs,Wild Pitches,Balks,Walks,Intentional Walks,Hit by Pitch,Earned Runs,Innings Pitched
-0,SDN201908140,beekj001,32,31,1,8,6,0,0,1,0,2,0,0,5,5.0
-0,BOS201806070,beekj001,28,32,1,7,4,0,0,0,0,3,0,0,6,4.0
-0,TBA201907220,beekj001,25,29,3,7,2,0,0,0,0,2,0,0,7,3.6666666666666665
 0,SEA201908090,beekj001,32,28,0,6,4,0,0,0,0,2,0,0,2,3.6666666666666665
+0,SDN201908140,beekj001,32,31,1,8,6,0,0,1,0,2,0,0,5,5.0
+0,TBA201907220,beekj001,25,29,3,7,2,0,0,0,0,2,0,0,7,3.6666666666666665
+0,BOS201806070,beekj001,28,32,1,7,4,0,0,0,0,3,0,0,6,4.0
