@@ -1,0 +1,1209 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	Page Not Found | FanGraphs Baseball
+</title><link href="//cdn.fangraphs.com/css/telerik" rel="stylesheet">
+
+
+
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="https://cdn.fangraphs.com/dist/css/head_section-style.css?v=0147f8f6fc30f3a81b2a" />
+
+<script src="https://cdn.fangraphs.com/dist/common-bundle.js?v=0147f8f6fc30f3a81b2a"></script>
+<script src="https://cdn.fangraphs.com/dist/head_section-bundle.js?v=0147f8f6fc30f3a81b2a"></script>
+
+
+
+<link rel="stylesheet" href="https://cdn.fangraphs.com/dist/css/mobile-style.css?v=0147f8f6fc30f3a81b2a" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/react/16.8.0/umd/react.production.min.js"></script> -->
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.8.0/umd/react-dom.production.min.js"></script> -->
+<script type="text/javascript" src="//cdn.fangraphs.com/js/fg-head-highcharts?v=p51SlUFUfRtBRZUF9OxjmyzVtjvbCbZvTlDgSV8YYhE1"></script>
+
+
+
+
+
+<link rel="shortcut icon" href="//cdn.fangraphs.com/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="//cdn.fangraphs.com/opensearch.xml" title="FanGraphs Search" />
+<link href="https://fonts.googleapis.com/css?family=Lato:400,700&amp;subset=latin-ext" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+
+
+<meta property="og:image" content="//cdn.fangraphs.com/blogs/wp-content/uploads/2016/04/flat_fg_green.png" />
+
+<script type="text/javascript">
+var ezstandalone = ezstandalone || {};
+ezstandalone.cmd = ezstandalone.cmd || [];
+ezstandalone.cmd.push(function() {
+var percentageToRunEzoic = 90;
+if(ezstandalone.isEzoicUser(percentageToRunEzoic) === true) {
+ezstandalone.define(104,113,124,125,126);
+ezstandalone.enable();
+ezstandalone.display();
+} else {
+
+
+
+            
+                $.getScript("//www.googletagservices.com/tag/js/gpt.js", function() {
+                });
+
+                $.getScript("//cdn.fangraphs.com/javascript/prebid/prebid2.44.5.js", function() {
+                });
+
+
+                /*  ####################################
+                 *  #    ASSERTIVE ANALYTICS CLIENT    #
+                 *  #        Version: 1.9.1            #
+                 *  ####################################
+                 */
+                !function(){function w(e){console.error(e);var t=new XMLHttpRequest;t.open("POST",N+"/error.php",!0),t.setRequestHeader("Content-Type","text/plain"),t.send(JSON.stringify(e,Object.getOwnPropertyNames(e)))}try{var U="1.9",N="https://api.assertcom.de",t="assertive_analytics_",R=P(),T=[],S=[],n=n||localStorage.getItem("assertiveYield")&&-1!==localStorage.getItem("assertiveYield").indexOf("debug")||-1!==u("assertiveYield").indexOf("debug");function i(e){return t.concat(e)}function a(e,t){return localStorage.setItem(i(e),t)}function D(e){return localStorage.getItem(i(e))}function d(e){return localStorage.removeItem(i(e))}function E(e){e=i(e);var t=Number(localStorage.getItem(e))||0;return localStorage.setItem(e,++t),t}function e(e){if(E(e+"PageViewN"),"client"!==e||!D(e+"UUID")){if("session"===e){if(D(e+"UUID")&&D(e+"Timeout")&&Date.now()<D(e+"Timeout"))return void a(e+"Timeout",Date.now()+18e5);a(e+"Timeout",Date.now()+18e5)}a(e+"UUID",P()),a(e+"Random",Math.random()),document.referrer?a(e+"Referrer",document.referrer):d(e+"Referrer"),a(e+"EntryPathname",window.location.pathname);var t=["utm_source","utm_medium","utm_campaign","utm_term","utm_content"],n={};for(var i in t){var r=t[i],s=u(r);""!==s&&(n[r]=s)}var o=JSON.stringify(n);o!==JSON.stringify({})?a(e+"UTM",o):d(e+"UTM"),a(e+"ImpressionN",1),a(e+"PageViewN",1),E(e+"SessionN")}}function P(e){return e?(e^16*Math.random()>>e/4).toString(16):([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g,P)}function u(e){return decodeURI(window.location.search.replace(new RegExp("^(?:.*[&\\?]"+escape(e).replace(/[\.\+\*]/g,"\\$&")+"(?:\\=([^&]*))?)?.*$","i"),"$1"))}function O(e){n&&console.log(e)}Array.prototype.find||Object.defineProperty(Array.prototype,"find",{value:function(e){if(null==this)throw new TypeError('"this" is null or not defined');var t=Object(this),n=t.length>>>0;if("function"!=typeof e)throw new TypeError("predicate must be a function");for(var i=arguments[1],r=0;r<n;){var s=t[r];if(e.call(i,s,r,t))return s;r++}},configurable:!0,writable:!0}),e("client"),e("session"),-1!==u("assertiveYield").indexOf("check")&&alert("Assertive Yield: Check"),("undefined"==typeof assertive_sampleRate||assertive_sampleRate&&D("sessionRandom")<assertive_sampleRate)&&function e(){if(r)return;if("undefined"==typeof googletag||!googletag.pubadsReady)return void setTimeout(e,20);r=!0;var b=null;window.addEventListener("blur",function(){if(b){var e=new XMLHttpRequest,t=N+"?event=click&entityId="+assertive_entityId+"&impressionUUID="+T[b];e.open("GET",t,!0),e.send()}});googletag.cmd.push(function(){try{googletag.pubads().addEventListener("slotRenderEnded",function(e){try{if(e.isEmpty)return;if("undefined"==typeof assertive_entityId)return void console.error("Assertive Yield: Entity ID is mandatory and not defined, exiting...");E("clientImpressionN"),E("sessionImpressionN");var t=e.slot,n=t.getSlotElementId(),i=t.getAdUnitPath(),r=document.getElementById(n);if(!r)return;var s=r.getElementsByTagName("iframe")[0];s.addEventListener("mouseover",function(){b=n}),s.addEventListener("touchstart",function(){b=n}),s.addEventListener("mouseout",function(){b=null}),s.addEventListener("touchend",function(){b=null});var o,a=t.getHtml(),d=/(?:(?:pbjs\.renderAd\(document, |adId: |hb_adid":\[)|(?:pbadid=))['"](.*?)["']/gi.exec(a),u=d?d[1]:t.getTargeting("hb_adid")[0],l=!!d;if(u){var c=null;pbjs.adUnits.find(function(e){return e.code===n})?c=n:pbjs.adUnits.find(function(e){return e.code===i})&&(c=i);var p=pbjs.getBidResponsesForAdUnitCode(c).bids||[];if(!p.length){var m=pbjs.getBidResponses();for(var f in m)if(m.hasOwnProperty(f)){var v=m[f].bids;for(var g in v)v.hasOwnProperty(g)&&p.push(v[g])}}o=p.find(function(e){return e.adId===u})||null}var m=o?p.filter(function(e){return e.auctionId===o.auctionId}):[];T[n]=P(),O("Session UUID: "+D("sessionUUID")+", PageView UUID: "+R+", Impression UUID: "+T[n]+", AdId: "+u),O("Slot Id: "+n+", AdUnitPath: "+i),o&&O(" - Highest Prebid "+o.cpm+" from "+o.bidderCode+" with id "+u),o||O(" - No PreBids!!!"),O(" - Winner: "+(l?"prebid":"dfp (Direct/AdX/AdSense)")+" with size "+(l&&o?o.width:e.size[0])+"x"+(l&&o?o.height:e.size[1])),O("---------------");var y=null,I=null;o&&(o.appnexus?y=o.appnexus.buyerMemberId?o.appnexus.buyerMemberId:null:o.rubicon&&(y=o.rubicon.networkId?o.rubicon.networkId:null,I=o.rubicon.advertiserId?o.rubicon.advertiserId:null));var _={version:U,entityId:assertive_entityId,siteUUID:"undefined"!=typeof assertive_siteUUID?assertive_siteUUID:null,clientUUID:D("clientUUID"),sessionUUID:D("sessionUUID"),pageViewUUID:R,impressionUUID:T[n],slotId:n,adUnitPath:i,dfpResponseInformation:t.getResponseInformation()||null,dfpTargetingMap:t.getTargetingMap()||null,highestBid:o,bidResponses:m,highestPreBid:o?o.cpm:0,highestPreBid_partner:o?o.bidderCode:"",buyerId:y,brandId:I,dealId:o&&o.dealId?o.dealId:null,creativeId:o&&o.creativeId?o.creativeId:null,mediaType:o&&o.mediaType?o.mediaType:null,source:o&&o.source?o.source:null,currency:o&&o.currency?o.currency:null,netRevenue:o&&o.netRevenue?o.netRevenue:null,creative_width:l&&o?o.width:e.size[0],creative_height:l&&o?o.height:e.size[1],preBidWon:l,timeToRespond:o?o.timeToRespond:null,protocol:window.location.protocol,host:window.location.host,pathname:window.location.pathname,pathname_split:window.location.pathname.split("/").filter(function(e){return!!e}),referrer:D("sessionReferrer"),utm:D("sessionUTM"),entryPathname:D("sessionEntryPathname"),impressionN:Number(D("sessionImpressionN"))||null,pageViewN:Number(D("sessionPageViewN"))||null,client_referrer:D("clientReferrer"),client_utm:D("clientUTM"),client_entryPathname:D("clientEntryPathname"),client_impressionN:Number(D("clientImpressionN"))||null,client_pageViewN:Number(D("clientPageViewN"))||null,client_sessionN:Number(D("clientSessionN"))||null,prebid_timeout:assertive_timeout||null,prebid_version:pbjs.version||null,userState:"undefined"!=typeof assertive_userState?assertive_userState:null,layout:"undefined"!=typeof assertive_layout?assertive_layout:null,custom_1:"undefined"!=typeof assertive_custom_1?assertive_custom_1:null,custom_2:"undefined"!=typeof assertive_custom_2?assertive_custom_2:null,custom_3:"undefined"!=typeof assertive_custom_3?assertive_custom_3:null,custom_4:"undefined"!=typeof assertive_custom_4?assertive_custom_4:null,custom_5:"undefined"!=typeof assertive_custom_5?assertive_custom_5:null,bps_type:t.getTargeting("ay_bid")[0]||null,bps_algo:t.getTargeting("ay_algo")[0]||null};S.push(_);var h=new XMLHttpRequest;h.open("POST",N,!0),h.setRequestHeader("Content-Type","text/plain"),h.send(JSON.stringify(_)),O("SENT!!!")}catch(e){w(e)}}),googletag.pubads().addEventListener("impressionViewable",function(e){try{var t=e.slot.getSlotElementId();if(!T[t])return;var n=new XMLHttpRequest,i=N+"?event=activeView&entityId="+assertive_entityId+"&impressionUUID="+T[t];n.open("GET",i,!0),n.send()}catch(e){w(e)}})}catch(e){w(e)}})}();var r=!1}catch(e){w(e)}}();
+
+                //-------------AMAZON ADS START----------------
+
+                  !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+                 // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+                  apstag.init({
+                    pubID: '54eeeb9c-d6c6-4712-bb2a-e2aed51c3eb7',
+                    adServer: 'googletag',
+                    bidTimeout: 3000
+                  });
+
+                  // request the bids for the four googletag slots
+                  apstag.fetchBids({
+                    slots: [{
+                                          slotID: 'div-gpt-ad-1349421924281-10',
+                                          slotName: '/1128006/ROS-Footer',
+                                          sizes:  [[728, 90]]
+                                         },{
+                                          slotID: 'div-gpt-ad-1349421924281-14',
+                                          slotName: '/1128006/ROS_728x90',
+                                          sizes:  [[728, 90], [320, 50]]
+                                         }]
+                  }, function(bids) {
+                    // set apstag bids, then trigger the first request to DFP
+                    googletag.cmd.push(function() {
+                      apstag.setDisplayBids();
+                      // googletag.pubads().refresh();    
+                    });
+                  });
+
+                //------------------Prebid Config Section START-------------------------------
+
+                     var PREBID_TIMEOUT = 3000;
+
+                    var adUnits = [{
+                                    code: 'div-gpt-ad-1349421924281-10',
+                                    mediaTypes: {
+                                            banner: {
+                                                sizes: [[728, 90]]
+                                            }
+                                    },
+                                    bids: [
+                                    {
+                                      bidder: 'appnexus',
+                                      params: { placementId: '12307741' }
+                                   },{
+                                      bidder: 'sovrn',
+                                      params: { tagid: '560323' }
+                                   },{
+                                      bidder: 'emx_digital',
+                                      params: { tagid: '65269' }
+                                   },{
+                                      bidder: 'conversant',
+                                      params: { 
+                                            site_id: '116646',
+                                            secure: 1
+                                      }
+                                   },{
+                                      bidder: 'oftmedia',
+                                      params: { placementId: '12738344' }
+                                   },{
+                                      bidder: 'rhythmone',
+                                      params: { placementId: '74397' }
+                                   },{
+                                      bidder: '33across',
+                                      params: { 
+                                            siteId: 'dFSOB-OzCr6yoSaKkv7mNO',
+                                            productId: 'siab'
+                                      }
+                                   }
+                                    ]
+                                    },{
+                                    code: 'div-gpt-ad-1349421924281-14',
+                                    mediaTypes: {
+                                            banner: {
+                                                sizes: [[728, 90], [320, 50]]
+                                            }
+                                    },
+                                    bids: [
+                                    {
+                                      bidder: 'appnexus',
+                                      params: { placementId: '12316456' }
+                                   },{
+                                      bidder: 'sovrn',
+                                      params: { tagid: '560321' }
+                                   },{
+                                      bidder: 'emx_digital',
+                                      params: { tagid: '65268' }
+                                   },{
+                                      bidder: 'conversant',
+                                      params: { 
+                                            site_id: '116644',
+                                            secure: 1
+                                      }
+                                   },{
+                                      bidder: 'oftmedia',
+                                      params: { placementId: '12738342' }
+                                   },{
+                                      bidder: 'rhythmone',
+                                      params: { placementId: '74397' }
+                                   },{
+                                      bidder: '33across',
+                                      params: { 
+                                            siteId: 'dFSOB-OzCr6yoSaKkv7mNO',
+                                            productId: 'siab'
+                                      }
+                                   }
+                                    ]
+                                    }
+                    ];
+
+                    window.pbjs = window.pbjs || {};
+                    pbjs.que = pbjs.que || [];
+
+                    pbjs.bidderSettings = {
+                      oftmedia: {
+                        bidCpmAdjustment : function(bidCpm){
+                          // adjust the bid in real time before the auction takes place
+                          return bidCpm * 0.90;
+                        }
+                      }
+                    };
+
+                    const customConfigObject = {
+                  'buckets' : [{
+                      'precision': 2,
+                      'min' : 0,
+                      'max' : 3,
+                      'increment' : 0.01
+                    },
+                    {
+                      'precision': 2,
+                      'min' : 3,
+                      'max' : 8,
+                      'increment' : 0.05
+                    },
+                    {
+                      'precision': 2,
+                      'min' : 8,
+                      'max' : 20,
+                      'increment' : 0.50
+                    },
+                    {
+                      'precision': 2,
+                      'min' : 20,
+                      'max' : 35,
+                      'increment' : 1.00
+                    }]
+                };
+
+                    // Assertive Yield Config
+
+                    var assertive_entityId = 'icEJRauCAzF8SFWAw';
+                var assertive_debug = 0; // append the query string 'assertiveYield=debug' or add this local storage entry 'localStorage.setItem("assertiveYield", "debug")' to enable dynamically
+                var assertive_sampleRate = 1; // 1 = 100%, 0.2 = 20%...
+
+                var assertive_timeout = null;
+                var assertive_layout = null;
+                var assertive_userState = null;
+
+                assertive_timeout = PREBID_TIMEOUT;
+
+                //-------------------------------------------
+
+                    
+
+//-------------Prebid Boilerplate Section START. No Need to Edit.------------
+
+      window.googletag = window.googletag || {};
+      googletag.cmd = googletag.cmd || [];
+      googletag.cmd.push(function () {
+          googletag.pubads().disableInitialLoad();
+      });
+
+      pbjs.que.push(function () {
+          pbjs.addAdUnits(adUnits);
+          pbjs.setConfig({
+                priceGranularity: customConfigObject,
+                enableSendAllBids: false,
+                targetingControls: {
+                    alwaysIncludeDeals: true
+                }
+          });
+          pbjs.requestBids({
+              bidsBackHandler: sendAdserverRequest
+          });
+      });
+
+      function sendAdserverRequest() {
+          if (pbjs.adserverRequestSent) return;
+          pbjs.adserverRequestSent = true;
+          googletag.cmd.push(function () {
+              pbjs.que.push(function () {
+                  pbjs.setTargetingForGPTAsync();
+                  googletag.pubads().refresh();
+              });
+          });
+      }
+
+      setTimeout(function () {
+          sendAdserverRequest();
+      }, PREBID_TIMEOUT);
+
+
+// -------Prebid Boilerplate Section END ---------- 
+
+
+/* Wrapper for Fangraphs, generated on 2019-10-11T14:11:35-04:00 */
+(function() {
+    var w = window;
+    var h = 'clarium.global.ssl.fastly.net';
+    w._clrm = w._clrm || {};
+    w._clrm.gpt = {
+        propertyId: 'haH0Rq9ZtvrlV5djxOjQIhGlTcQ',
+        confiantCdn: h,
+        sandbox: 3,
+        mapping: 'W3siaSI6MjEsInQiOiJ7e2suaGJfYmlkZGVyfX06e3trLmhiX3NpemV9fSIsInAiOjUwLCJEIjowLCJyIjpbeyJ0IjoicmVnZXgiLCJzIjoidGFnIiwidiI6IlwvcGJqcy5yZW5kZXJBZFwvIn1dfSx7ImkiOjIsInQiOiJ7e299fTp7e3d9fXh7e2h9fSIsInAiOjAsIkQiOjEsInIiOltdfSx7ImkiOjYsInQiOiJ7e2NvfX06e3t3fX14e3tofX0iLCJwIjo1MCwiRCI6MCwiciI6W3sidCI6ImV4IiwicyI6bnVsbCwidiI6ImNvIn1dfV0=',
+        activation: '|||MjIxMDc0MDA0MA==,|||OTQ3Mjc5MDY=,|||MjE3MDk3NTM5Ng==',
+        callback: function(blockingType, blockingId, isBlocked, wrapperId, tagId, impressionData) {
+            console.log("w00t one more bad ad nixed.", arguments);
+        }
+    };
+    var e = document.createElement('script');
+    e.async = true;
+    e.src = '//' + h + '/gpt/a/wrap.js?v2_1';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(e, s);
+})();
+
+
+
+
+                  googletag.cmd.push(function () {
+                googletag.defineSlot('/1128006/ROS-Footer', [[728, 90]], 'div-gpt-ad-1349421924281-10').addService(googletag.pubads());
+var admapsize14 = googletag.sizeMapping().addSize([800, 600], [728, 90]).addSize([0, 0], [320, 50]).build();
+googletag.defineSlot('/1128006/ROS_728x90', [[728, 90], [320, 50]], 'div-gpt-ad-1349421924281-14').defineSizeMapping(admapsize14).addService(googletag.pubads());
+
+                        googletag.pubads().enableSingleRequest();
+                        googletag.enableServices();
+                    });
+
+                
+                 
+//--------33Sticky----------------
+window.Tynt=window.Tynt||[];Tynt.push('c8-dRm2_Gr5z6YrkHcnnVW');
+Tynt.cmd=Tynt.cmd||[];Tynt.cmd.push(function(){
+Tynt.ads.display('','','inview');});
+(function(){var h,s=document.createElement('script');
+s.src=(window.location.protocol==='https:'?
+'https':'http')+'://cdn.tynt.com/rciv.js';
+h=document.getElementsByTagName('script')[0];
+h.parentNode.insertBefore(s,h);})();  
+        //---------------First Impression------------
+;(function(o) {
+        var w=window.top,a='apdAdmin',ft=w.document.getElementsByTagName('head')[0],
+        l=w.location.href,d=w.document;w.apd_options=o;
+        if(l.indexOf('disable_fi')!=-1) { console.error("disable_fi has been detected in URL. FI functionality is disabled for this page view."); return; }
+        var fiab=d.createElement('script'); fiab.type = 'text/javascript';
+        fiab.src=o.scheme+'ecdn.analysis.fi/static/js/fab.js';fiab.id='fi-'+o.websiteId;
+        ft.appendChild(fiab, ft); if(l.indexOf(a)!=-1) w.localStorage[a]=1; 
+        var aM = w.localStorage[a]==1, fi=d.createElement('script'); 
+        fi.type='text/javascript'; fi.async=true; if(aM) fi['data-cfasync']='false';
+        fi.src=o.scheme+(aM?'cdn':'ecdn') + '.firstimpression.io/' + (aM ? 'fi.js?id='+o.websiteId : 'fi_client.js');
+        ft.appendChild(fi);
+    })({ 
+        'websiteId': 5863, 
+        'scheme':    '//'
+    }); 
+
+        
+                                $.getScript("//get.s-onetag.com/50eed55c-40e2-4bca-85a2-b47d3cf05693/tag.min.js", function() {
+                });
+
+
+
+}
+});
+
+</script>
+
+<script src="//www.ezojs.com/ezoic/sa.min.js"></script>
+
+
+</head>
+<body data-server="light-mode ">
+    <div id="wrapper">
+        <div id="top">
+            
+
+
+<div class="header-chat-alert-spacer" style="visibility: hidden"><a class="header-chat-alert-text"></a></div>
+
+<div class="header__wrapper">
+    <div id="header_ra-spacer"></div>
+    <header>
+        <div id="header_ra-content"></div>
+        <div class="top-logo sticky">
+            <div class="top-logo-bkgd fg"><a href="http://www.fangraphs.com/" target="_top"><div class="top-logo-img fg"></div></a></div>
+        </div>
+        
+
+<div class="nav-main__wrapper">
+    <nav id="navBar" class="nav-main fg">
+        <div class="nav-mobile-bar">
+            <div id="nav__mobile-buton" class="nav-mobile-button"></div>
+
+            
+            <div id="rootSearch" class="search-bar">
+                <div class="search-bar">
+                    <div class="search-bar-input-wrapper">
+                        <input class="search-query" form="player-search" type="text" />
+                    </div>
+                </div>
+            </div>
+            <div class="nav-mobile-fill"></div>
+            <div class="nav-mobile-login" data-full="true">
+                <a id="linkAccountMobile" href="http://www.fangraphs.com/blogs/wp-login.php?redirect_to=https%3a%2f%2fwww.fangraphs.com%2f404.aspx%3f404%3bhttps%3a%2f%2fwww.fangraphs.com%3a443%2fcss%2ftelerik">
+                    <div class="menu-item-label">
+                        <div class="label-account">Sign In</div><div class="icon-account signed-out"></div>
+                    </div>
+                </a>
+                
+                
+            </div>
+        </div>
+        <div class="nav-search-players"></div>
+        
+        <div class="nav-mobile-menu">
+            <ul class="menu-top">
+                <li class="menu-item" data-sub="home">
+                    <div class="menu-item-label">Support FanGraphs</div>
+                    <div class="menu-sub">
+                        <div class="menusub_mid">
+                            <div class="menu-sub-link">
+                                <a href="https://plus.fangraphs.com/product/fangraphs-membership/">FanGraphs Membership</a>
+                            </div>
+                            <div class="menu-sub-link">
+                                <a href="https://plus.fangraphs.com/product/fangraphs-gift-membership/">Gift a Membership</a>
+                            </div>
+                            <div class="menu-sub-link">
+                                <a href="https://plus.fangraphs.com/product/fangraphs-donation/">Donate to FanGraphs</a>
+                            </div>
+                            <div class="menu-sub-link">
+                                <a href="https://plus.fangraphs.com/shop/">FanGraphs Store</a>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="menu-item" data-sub="games">
+                    <div class="menu-item-label">Games</div>
+                    <div class="menu-sub">
+                        <div class="menu-sub-link">
+                            <a href="//ottoneu.fangraphs.com/">Ottoneu Fantasy Baseball</a>
+                        </div>
+                        <a href="//ottoneu.fangraphs.com/">Signup</a>, 
+                        <a href="//ottoneu.fangraphs.com/support">FAQ</a>, 
+                        <a href="//www.fangraphs.com/fantasy/category/ottoneu/">Blog Posts</a>
+                    </div>
+                </li>
+                <li class="menu-item" data-sub="blogs" data-full="true">
+                    <div class="menu-item-label">Blogs</div>
+                    <div class="menu-sub">
+                        <div class="menu-sub-link">
+                            <a href="//www.fangraphs.com/blogroll.aspx">Blog Roll</a>
+                        </div>
+                        <hr />
+                        <div class="menu-sub-ajax">
+                            <div class="menusub_mid">
+                                <div class="menu-blog fg">
+                                    <div class="menu-blog-header"><a href="https://www.fangraphs.com/blogs/">FanGraphs</a></div>
+                                    <div id="menu-blog-roll-fg"></div>
+                                    <div class="menu-blog-podcast">
+                                        <span>Podcasts:</span> <a href="https://www.fangraphs.com/blogs/category/podcast/">FanGraphs Audio</a> | 
+                                        <a href="https://www.fangraphs.com/blogs/category/effectively-wild/">Effectively Wild</a> |
+                                        <a href="https://blogs.fangraphs.com/category/chin-music/">Chin Music</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <div class="menu-blog fg">
+                                    <div class="menu-blog-header"><a href="https://www.fangraphs.com/prospects/">FanGraphs Prospects</a></div>
+                                </div>
+                                <hr />
+                                <div class="menu-blog rg">
+                                    <div class="menu-blog-header"><a href="https://www.fangraphs.com/fantasy/">RotoGraphs</a></div>
+                                    <div id="menu-blog-roll-rg"></div>
+                                    <div class="menu-blog-podcast">
+                                        <span>Podcasts: </span>
+                                            <a href="https://www.fangraphs.com/fantasy/category/podcast/">The Sleeper and The Bust</a> | 
+                                            <a href="https://www.fangraphs.com/fantasy/category/field-of-streams/">Field of Streams</a> |
+                                            <a href="https://fantasy.fangraphs.com/category/beat-the-shift/">Beat the Shift</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <div class="menu-blog com">
+                                    <div class="menu-blog-header"><a href="https://www.fangraphs.com/community/">Community Research</a></div>
+                                    <div id="menu-blog-roll-com"></div>
+                                </div>
+                                <hr />
+                                <div class="menu-blog-podcast"><span>Archived Blogs:</span> 
+                                    <a class="tht" href="https://www.fangraphs.com/tht/">The Hardball Times</a> |
+                                    <a class="not" href="https://www.fangraphs.com/not/">NotGraphs</a> | 
+                                    <a class="tg" href="https://www.fangraphs.com/techgraphs/">TechGraphs</a> | 
+                                    <a class="fg" href="https://www.fangraphs.com/plus/">FanGraphs+</a>
+                                </div>
+                                <div class="menu-blog-podcast"><span>Archived THT:</span> <a class="tht" href="//www.fangraphs.com/tht/tht-live/">THT Live</a> | <a class="tht" href="//www.fangraphs.com/tht/category/tht-dispatch/">Dispatch</a> | <a class="tht" href="//www.fangraphs.com/tht/category/tht-fantasy/">Fantasy</a> | <a class="tht" href="//www.fangraphs.com/tht/category/shysterball/">ShysterBall</a></div>
+                                <div class="menu-blog-podcast"><span>Archived Podcasts:</span> 
+                                    <a class="tht" href="//www.fangraphs.com/tht/stealing-home/">Stealing Home</a> | 
+                                    <a class="tht" href="//www.fangraphs.com/tht/doing-it-for-bartolo/">Doing It For Bartolo</a> | 
+                                    <a class="rg" href="//www.fangraphs.com/fantasy/category/ottographs-podcast/">OttoGraphs</a> |
+                                    <a class="fg" href="https://www.fangraphs.com/blogs/category/ump-the-untitled-mcdongenhagen-project/">UMP: The Untitled McDongenhagen Project</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="menu-item" data-sub="projections" data-full="true">
+                    <div class="menu-item-label">Projections</div>
+                    <div class="menu-sub">
+                        <div class="menusub_mid">
+                            <div class="menu-sub-header">
+                                2021 Pre-Season Projections
+                            </div>
+                        </div>
+                        <a href="//www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=zips">ZiPS</a>,
+                        <a href="//www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=zipsdc">ZiPS DC</a><br />
+                        <a href="//www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=steamer">Steamer</a><br />
+                        <a href="//www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=fangraphsdc">Depth Charts</a><br />
+                        <a href="//www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=atc">ATC</a><br />
+                        <a href="//www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=thebat">THE BAT</a>,
+                        <a href="//www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=thebatx">THE BAT X</a>
+                        <hr />
+                        <div class="menu-sub-header">
+                            2021 600 PA / 200 IP Projections
+                        </div>
+                        <a href="//www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=steamer600">Steamer600</a>
+                        <hr />
+                        
+                        <div class="menu-sub-header">
+                            2021 Updated In-Season Projections
+                        </div>
+                        <a href="//www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=rzips">ZiPS (RoS)</a>,
+                        <a href="//www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=uzips">ZiPS (Update)</a><br />
+                        <a href="//www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=steamerr">Steamer (RoS)</a>, 
+                        <a href="//www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=steameru">Steamer (Update)</a><br />
+                        <a href="//www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=rfangraphsdc">Depth Charts (RoS)</a><br />
+                        <a href="//www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=rthebat">THE BAT (RoS)</a>,
+                        <a href="//www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=rthebatx">THE BAT X (RoS)</a>
+                        <hr />
+                        <div class="menu-sub-header">
+                            3 Year Projections
+                        </div>
+                        <a href="//www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=zipsp1">ZiPS 2022</a>,
+                        <a href="//www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=zipsp2">ZiPS 2023</a>
+                        <hr />
+
+                        <div class="menu-sub-link">
+                            <a href="//www.fangraphs.com/auctiontool.aspx">Auction Calculator</a>
+                        </div>
+                        <div class="menu-sub-link">
+                            <a href="//www.fangraphs.com/fantasy-tools/auction-calculator">Auction Calculator (New Interface)</a>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="menu-item" data-sub="scores" data-full="true">
+                    <div class="menu-item-label">Scores</div>
+                    <div class="menu-sub">
+                        <div class="menusub_mid">
+                            <div class="menu-sub-header">
+                                Today
+                            </div>
+                            <a href="//www.fangraphs.com/livescoreboard.aspx">Live Scoreboard</a>,  
+                                <a id="linkProb" href="https://www.fangraphs.com/leaders.aspx?pos=all&amp;stats=pit&amp;lg=all&amp;qual=0&amp;type=8&amp;season=2020&amp;month=0&amp;season1=2020&amp;ind=0&amp;team=0&amp;rost=0&amp;age=0&amp;filter=&amp;players=p2021-04-05">Probable Pitchers</a>
+                            <br />
+                            <a href="//www.fangraphs.com/scores/live-leaderboards">Live Daily Leaderboards</a>
+                            <hr />
+                            <div class="menu-sub-header">
+                                Win Probability & Box Scores
+                            </div>
+                            <a href="//www.fangraphs.com/scoreboard.aspx">2021</a>,
+                            <a href="//www.fangraphs.com/scoreboard.aspx?date=2020-10-27">2020</a>,
+                            <a href="//www.fangraphs.com/scoreboard.aspx?date=2019-10-30">2019</a>,
+                            <a href="//www.fangraphs.com/scoreboard.aspx?date=2018-11-01">2018</a>,
+                            <a href="//www.fangraphs.com/scoreboard.aspx?date=2017-11-01">2017</a>... 
+                
+                            
+                        </div>
+                    </div>
+                </li>
+                <li class="menu-item" data-sub="standings" data-full="true">
+                    <div class="menu-item-label">Standings</div>
+                    <div class="menu-sub">
+                        <div class="menusub_mid">
+                            <div class="menu-sub-link">
+                                <a href="//www.fangraphs.com/depthcharts.aspx?position=Standings">2021 Projected Standings</a>
+                            </div>
+                            <div class="menu-sub-link">
+                                <a href="//www.fangraphs.com/standings/playoff-odds">2021 Playoff Odds</a>, <a href="//www.fangraphs.com/standings/playoff-odds-graphs">Playoff Odds Graphs</a>
+                                <br/>
+                                <a href="//www.fangraphs.com/standings/playoff-odds/post-season-zips">ZiPS Postseason Game-By-Game Odds</a>
+                            </div>
+                            <table class="menu-standings-table">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <div class="menu-sub-header">AL East</div>
+                                            <div id="menu-standings-ale"></div>
+
+                                            <div class="menu-sub-header">AL Central</div>
+                                            <div id="menu-standings-alc"></div>
+
+                                            <div class="menu-sub-header">AL West</div>
+                                            <div id="menu-standings-alw"></div>
+                                        </td>
+                                        <td class="menu-table-sep"></td>
+                                        <td>
+                                            <div class="menu-sub-header">NL East</div>
+                                            <div id="menu-standings-nle"></div>
+
+                                            <div class="menu-sub-header">NL Central</div>
+                                            <div id="menu-standings-nlc"></div>
+
+                                            <div class="menu-sub-header">NL West</div>
+                                            <div id="menu-standings-nlw"></div>
+
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </li>
+                <li class="menu-item" data-sub="leaders" data-full="true">
+                    <div class="menu-item-label">Leaders</div>
+                    <div class="menu-sub">
+                        <div class="menusub_mid">
+                            <div class="menu-sub-header">
+                                Major League Leaders
+                            </div>
+                            <div class="menu-sub-header">
+                                Batting:
+                                <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=8&season=2021&month=0&season1=2021&ind=0">2021</a>,
+                                <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=8&season=2020&month=0&season1=2020&ind=0">2020</a>,
+                                <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=8&season=2019&month=0&season1=2019&ind=0">2019</a>, 
+                                <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=8&season=2018&month=0&season1=2018&ind=0">2018</a>, 
+                                <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=8&season=2021&month=0&season1=1871&ind=0&team=0&rost=0&players=0">Career</a>
+                            </div>
+                            <div class="menu-sub-header">
+                                Pitching:    
+                                <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=8&season=2021&month=0&season1=2021&ind=0">2021</a>,
+                                <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=8&season=2020&month=0&season1=2020&ind=0">2020</a>,
+                                <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=8&season=2019&month=0&season1=2019&ind=0">2019</a>,                      
+                                <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=8&season=2018&month=0&season1=2018&ind=0">2018</a>,                      
+                                <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=8&season=2021&month=0&season1=1871&ind=0&team=0&rost=0&players=0">Career</a>
+                            </div>
+                            <div class="menu-sub-link">
+                                <a href="//www.fangraphs.com/leaders/splits-leaderboards">Splits Leaderboards</a>
+                            </div>
+                            <div class="menu-sub-link">
+                                <a href="//www.fangraphs.com/leaders/season-stat-grid">Season Stat Grid</a>
+                            </div>
+                            <div class="menu-sub-link">
+                                <a href="//www.fangraphs.com/leaders/special/60-game-span">60-Game Span Leaderboards (Special)</a>
+                            </div>
+                            <hr />
+                            <!-- <div class="menu-sub-header">
+                                Prospects
+                            </div>
+                            <a href="//www.fangraphs.com/prospects/the-board">THE BOARD!</a><br />
+                            <a href="//www.fangraphs.com/prospects/the-board-scouting-and-stats">THE BOARD: Scouting + Stats!</a>
+                            <hr />        -->
+                            
+                            
+                            
+                            <div class="menu-sub-header">
+                                KBO Leaders<br/>
+                                <a href="https://www.fangraphs.com/leaders/international">Batting</a>,
+                                <a href="https://www.fangraphs.com/leaders/international?&stats=pit">Pitching</a>
+                            </div>
+                            <hr />
+                            <div class="menu-sub-header">
+                                Minor League Leaders
+                            </div>
+                            AAA: <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=2&qual=y&type=0&season=2019">International</a>, <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=4&qual=y&type=0&season=2019">Pacific Coast</a>, <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=31&qual=y&type=0&season=2019">Mexican</a><br />
+                            AA: <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=5&qual=y&type=0&season=2019">Eastern</a>, <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=6&qual=y&type=0&season=2019">Southern</a>, <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=7&qual=y&type=0&season=2019">Texas</a><br />
+                            A+: <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=8&qual=y&type=0&season=2019">California</a>, <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=9&qual=y&type=0&season=2019">Carolina</a>, <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=10&qual=y&type=0&season=2019">Florida State</a><br />
+                            A: <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=11&qual=y&type=0&season=2019">Midwest</a>, <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=14&qual=y&type=0&season=2019">South Atlantic</a><br />
+                            A-: <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=12&qual=y&type=0&season=2019">New York-Penn</a>, <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=13&qual=y&type=0&season=2019">Northwest</a><br />
+                            R: <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=15&qual=y&type=0&season=2019">Appalachian</a>, <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=17&qual=y&type=0&season=2019">Gulf Coast</a>, <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=18&qual=y&type=0&season=2019">Pioneer</a>, <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=16&qual=y&type=0&season=2019">Arizona</a><br />
+                            R: <a href="//www.fangraphs.com/leaders/minor-league?pos=all&stats=bat&lg=30&qual=y&type=0&season=2019">Dominican</a>
+                            <div class="menu-sub-link">
+                                <a href="//www.fangraphs.com/minorleaders.aspx">Legacy Minor League Leaderboards</a>
+                            </div>
+                            <hr />
+                            <div class="menu-sub-header">
+                                WAR Tools
+                            </div>
+                            <a href="//www.fangraphs.com/warleaders.aspx">Combined WAR Leaderboards</a><br />
+                            <a href="//www.fangraphs.com/graphsw.aspx">WAR Graphs</a>
+                            <div class="menu-sub-header">
+                                WPA Tools
+                            </div>
+                            <a href="//www.fangraphs.com/tools/wpa-inquirer">WPA Inquirer</a><br />
+                            <div class="menu-sub-header">
+                                Rookie Leaders
+                            </div>
+                            <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=8&season=2021&month=0&season1=2021&ind=2">Batters 2021</a>, <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=8&season=2021&month=0&season1=2021&ind=2">Pitchers 2021</a>
+                            <div class="menu-sub-header">
+                                Splits Leaders
+                            </div>
+                            Batters: <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=1&season=2021&month=13&season1=2021&ind=0">vs L</a>, 
+                                <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=1&season=2021&month=14&season1=2021&ind=0">vs R</a>, 
+                                <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=1&season=2021&month=15&season1=2021&ind=0">Home</a>, 
+                                <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=1&season=2021&month=16&season1=2021&ind=0">Away</a>
+                            <br />
+                            Pitchers: <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=1&season=2021&month=13&season1=2021&ind=0">vs L</a> , 
+                                <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=1&season=2021&month=14&season1=2021&ind=0">vs R</a>, 
+                                <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=1&season=2021&month=15&season1=2021&ind=0">Home</a>, 
+                                <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=1&season=2021&month=16&season1=2021&ind=0">Away</a>
+                            <div class="menu-sub-header">
+                                
+                        </div>
+                    </div>
+                </li>
+                <li class="menu-item" data-sub="teams" data-full="true">
+                    <div class="menu-item-label">Teams</div>
+                    <div class="menu-sub">
+                        <div class="menusub_mid">
+                            <div class="menu-sub-header">
+                                Team Batting Stats
+                            </div>
+                            <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=8&season=2021&month=0&season1=2021&ind=0&team=0,ts&rost=&age=&filter=&players=0">2021</a>,
+                            <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=8&season=2020&month=0&season1=2020&ind=0&team=0,ts&rost=&age=&filter=&players=0">2020</a>,
+                            <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=8&season=2019&month=0&season1=2019&ind=0&team=0,ts&rost=&age=&filter=&players=0">2019</a>, 
+                            <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=8&season=2018&month=0&season1=2018&ind=0&team=0,ts&rost=&age=&filter=&players=0">2018</a>, 
+                            <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=8&season=2017&month=0&season1=2017&ind=0&team=0,ts&rost=&age=&filter=&players=0">2017</a>...
+                            <div class="menu-sub-header">
+                                Team Pitching Stats
+                            </div>
+                            <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=8&season=2021&month=0&season1=2021&ind=0&team=0,ts&rost=0&age=0&filter=&players=0">2021</a>, 
+                            <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=8&season=2020&month=0&season1=2020&ind=0&team=0,ts&rost=0&age=0&filter=&players=0">2020</a>, 
+                            <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=8&season=2019&month=0&season1=2019&ind=0&team=0,ts&rost=0&age=0&filter=&players=0">2019</a>, 
+                            <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=8&season=2018&month=0&season1=2018&ind=0&team=0,ts&rost=0&age=0&filter=&players=0">2018</a>, 
+                            <a href="//www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=8&season=2017&month=0&season1=2017&ind=0&team=0,ts&rost=0&age=0&filter=&players=0">2017</a>... 
+
+                                <div class="menu-sub-link">
+                                    <a href="//www.fangraphs.com/depthcharts.aspx?position=Team">Team WAR Totals (RoS)</a>
+                                </div>
+                            
+                            <table class="menu-team-table">
+                                <tr>
+                                    <td>
+                                        <div class="menu-sub-header">AL East</div>
+                                        <a href="//www.fangraphs.com/teams/blue-jays">Blue Jays</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=14">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/orioles">Orioles</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=2">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/rays">Rays</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=12">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/red-sox">Red Sox</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=3">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/yankees">Yankees</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=9">DC</a><br />
+                                    </td>
+                                    <td>
+                                        <div class="menu-sub-header">AL Central</div>
+                                        <a href="//www.fangraphs.com/teams/cleveland">Cleveland</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=5">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/royals">Royals</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=7">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/tigers">Tigers</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=6">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/twins">Twins</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=8">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/white-sox">White Sox</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=4">DC</a><br />
+                                    </td>
+                                    <td>
+                                        <div class="menu-sub-header">AL West</div>
+                                        <a href="//www.fangraphs.com/teams/angels">Angels</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=1">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/astros">Astros</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=21">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/athletics">Athletics</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=10">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/mariners">Mariners</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=11">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/rangers">Rangers</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=13">DC</a><br />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div class="menu-sub-header">NL East</div>
+                                        <a href="//www.fangraphs.com/teams/braves">Braves</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=16">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/marlins">Marlins</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=20">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/mets">Mets</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=25">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/nationals">Nationals</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=24">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/phillies">Phillies</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=26">DC</a></td>
+                                    <td>
+                                        <div class="menu-sub-header">NL Central</div>
+                                        <a href="//www.fangraphs.com/teams/brewers">Brewers</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=23">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/cardinals">Cardinals</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=28">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/cubs">Cubs</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=17">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/pirates">Pirates</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=27">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/reds">Reds</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=18">DC</a></td>
+                                    <td>
+                                        <div class="menu-sub-header">NL West</div>
+                                        <a href="//www.fangraphs.com/teams/diamondbacks">D-backs</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=15">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/dodgers">Dodgers</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=22">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/giants">Giants</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=30">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/padres">Padres</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=29">DC</a><br />
+                                        <a href="//www.fangraphs.com/teams/rockies">Rockies</a>&nbsp; | &nbsp;<a href="//www.fangraphs.com/depthcharts.aspx?position=ALL&teamid=19">DC</a></td>
+                                </tr>
+                            </table>
+                            <div class="menu-sub-header">
+                                Positional Depth Charts
+                            </div>
+                            Batters: <a href="//www.fangraphs.com/depthcharts.aspx?position=C">C</a>,
+                            <a href="//www.fangraphs.com/depthcharts.aspx?position=1B">1B</a>,
+                            <a href="//www.fangraphs.com/depthcharts.aspx?position=2B">2B</a>,
+                            <a href="//www.fangraphs.com/depthcharts.aspx?position=SS">SS</a>,
+                            <a href="//www.fangraphs.com/depthcharts.aspx?position=3B">3B</a>,
+                            <a href="//www.fangraphs.com/depthcharts.aspx?position=LF">LF</a>,
+                            <a href="//www.fangraphs.com/depthcharts.aspx?position=CF">CF</a>,
+                            <a href="//www.fangraphs.com/depthcharts.aspx?position=RF">RF</a>,
+                            <a href="//www.fangraphs.com/depthcharts.aspx?position=DH">DH</a><br />
+                            Pitchers: <a href="//www.fangraphs.com/depthcharts.aspx?position=SP">SP</a>,
+                            <a href="//www.fangraphs.com/depthcharts.aspx?position=RP">RP</a>
+                        </div>
+                    </div>
+                </li>
+                 <li class="menu-item" data-sub="roster-resource" data-full="true">
+                    <div class="menu-item-label">RosterResource</div>
+                    <div class="menu-sub">
+                        <div class="menusub_mid">
+                        <div class="menu-sub-header">Offseason Tools</div>
+                            <div class="menu-sub-link">
+                                <a href="//www.fangraphs.com/roster-resource/opening-day-tracker">2021 Opening Day Tracker</a>
+                            </div>
+                            <div class="menu-sub-link">
+                                <a href="//www.fangraphs.com/roster-resource/offseason-tracker">2021 Offseason Tracker</a>
+                            </div>
+                            <div class="menu-sub-link">
+                                <a href="//www.fangraphs.com/roster-resource/free-agent-tracker">2021 Free Agent Tracker</a>
+                            </div>
+                            <div class="menu-sub-link">
+                                <a href="//www.fangraphs.com/roster-resource/injury-report">2021 Injury Report</a>
+                            </div>
+                         <div class="menu-sub-header">
+                                Current Depth Charts
+                            </div>
+                            <table class="menu-team-table">
+                                <tr>
+                                    <td>
+                                        <div class="menu-sub-header">AL East</div>
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/blue-jays">Blue Jays</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/orioles">Orioles</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/rays">Rays</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/red-sox">Red Sox</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/yankees">Yankees</a><br />
+                                    </td>
+                                    <td>
+                                        <div class="menu-sub-header">AL Central</div>
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/cleveland">Cleveland</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/royals">Royals</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/tigers">Tigers</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/twins">Twins</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/white-sox">White Sox</a><br />
+                                    </td>
+                                    <td>
+                                        <div class="menu-sub-header">AL West</div>
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/angels">Angels</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/astros">Astros</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/athletics">Athletics</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/mariners">Mariners</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/rangers">Rangers</a><br />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div class="menu-sub-header">NL East</div>
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/braves">Braves</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/marlins">Marlins</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/mets">Mets</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/nationals">Nationals</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/phillies">Phillies</a></td>
+                                    <td>
+                                        <div class="menu-sub-header">NL Central</div>
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/brewers">Brewers</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/cardinals">Cardinals</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/cubs">Cubs</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/pirates">Pirates</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/reds">Reds</a></td>
+                                    <td>
+                                        <div class="menu-sub-header">NL West</div>
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/diamondbacks">D-backs</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/dodgers">Dodgers</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/giants">Giants</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/padres">Padres</a><br />
+                                        <a href="//www.fangraphs.com/roster-resource/depth-charts/rockies">Rockies</a></td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </li>
+                <li id="menuProspects" class="menu-item" data-sub="prospects" data-full="true">
+                    <div class="menu-item-label">Prospects</div>
+                    <div class="menu-sub">
+                        <div class="menusub-mid">
+                            <div class="menu-sub-link">
+                                <a href="//www.fangraphs.com/prospects">Prospects Home</a>
+                            </div>
+                            <a href="//www.fangraphs.com/prospects/the-board">THE BOARD!</a><br />
+                            <a href="//www.fangraphs.com/prospects/the-board-scouting-and-stats">THE BOARD: Scouting + Stats!</a><br />
+                            <a href="//blogs.fangraphs.com/how-to-use-the-board-a-tutorial/">How To Use THE BOARD: A Tutorial</a>
+                            <hr />
+                            <div class="menu-sub-header">Top Prospects List</div>
+                            <div class="intro-misc intro-team">
+        <div class="intro-header"><span class="intro-header-text">Top Prospects</span></div>
+        <div class="box-team"><div class="intro-team-prospects-toggle">
+            <span class="intro-team-prospects-toggle-item team-box-button team-highlight" data-val="3963">2021</span>
+            <span class="intro-team-prospects-toggle-item team-box-button" data-val="3932">2020</span>
+        </div><div class="team-box-3963">
+            <div>
+                <div class="team-lg">AL</div><table><tr><td><a href="http://www.fangraphs.com/blogs/top-45-prospects-baltimore-orioles">BAL</a></td><td><a href="http://www.fangraphs.com/blogs/top-34-prospects-chicago-white-sox">CHW</a></td><td><a class="link-inactive">HOU</a></td></tr><tr><td><a href="http://www.fangraphs.com/blogs/top-47-prospects-boston-red-sox">BOS</a></td><td><a href="http://www.fangraphs.com/blogs/top-49-prospects-cleveland-baseball-team">CLE</a></td><td><a class="link-inactive">LAA</a></td></tr><tr><td><a href="http://www.fangraphs.com/blogs/top-48-prospects-new-york-yankees">NYY</a></td><td><a href="http://www.fangraphs.com/blogs/top-42-prospects-detroit-tigers">DET</a></td><td><a class="link-inactive">OAK</a></td></tr><tr><td><a href="http://www.fangraphs.com/blogs/top-62-prospects-tampa-bay-rays">TBR</a></td><td><a class="link-inactive">KCR</a></td><td><a class="link-inactive">SEA</a></td></tr><tr><td><a href="http://www.fangraphs.com/blogs/top-39-prospects-toronto-blue-jays">TOR</a></td><td><a href="http://www.fangraphs.com/blogs/top-39-prospects-minnesota-twins">MIN</a></td><td><a class="link-inactive">TEX</a></td></tr></table>
+            </div>
+            <div>
+                <div class="team-lg">NL</div><table><tr><td><a href="http://www.fangraphs.com/blogs/top-30-prospects-atlanta-braves">ATL</a></td><td><a class="link-inactive">CHC</a></td><td><a href="http://www.fangraphs.com/blogs/top-46-prospects-arizona-diamondbacks">ARI</a></td></tr><tr><td><a class="link-inactive">MIA</a></td><td><a href="http://www.fangraphs.com/blogs/top-36-prospects-cincinnati-reds">CIN</a></td><td><a href="http://www.fangraphs.com/blogs/top-32-prospects-colorado-rockies">COL</a></td></tr><tr><td><a href="http://www.fangraphs.com/blogs/top-30-prospects-new-york-mets">NYM</a></td><td><a class="link-inactive">MIL</a></td><td><a href="http://www.fangraphs.com/blogs/top-51-prospects-los-angeles-dodgers-2">LAD</a></td></tr><tr><td><a href="http://www.fangraphs.com/blogs/top-41-prospects-philadelphia-phillies">PHI</a></td><td><a href="http://www.fangraphs.com/blogs/top-51-prospects-pittsburgh-pirates">PIT</a></td><td><a class="link-inactive">SDP</a></td></tr><tr><td><a class="link-inactive">WSN</a></td><td><a class="link-inactive">STL</a></td><td><a href="http://www.fangraphs.com/blogs/top-40-prospects-san-francisco-giants">SFG</a></td></tr></table></div>
+            </div><div class="team-box-3932" style="display: none;">
+            <div>
+                <div class="team-lg">AL</div><table><tr><td><a href="http://www.fangraphs.com/blogs/top-40-prospects-baltimore-orioles">BAL</a></td><td><a href="http://www.fangraphs.com/blogs/top-38-prospects-chicago-white-sox">CHW</a></td><td><a href="http://www.fangraphs.com/blogs/top-40-prospects-houston-astros">HOU</a></td></tr><tr><td><a href="http://www.fangraphs.com/blogs/top-33-prospects-boston-red-sox">BOS</a></td><td><a href="http://www.fangraphs.com/blogs/top-46-prospects-cleveland-indians">CLE</a></td><td><a href="http://www.fangraphs.com/blogs/top-31-prospects-los-angeles-angels-2">LAA</a></td></tr><tr><td><a href="http://www.fangraphs.com/blogs/top-54-prospects-new-york-yankees">NYY</a></td><td><a href="http://www.fangraphs.com/blogs/top-38-prospects-detroit-tigers">DET</a></td><td><a href="http://www.fangraphs.com/blogs/top-36-prospects-oakland-athletics">OAK</a></td></tr><tr><td><a href="http://www.fangraphs.com/blogs/top-54-prospects-tampa-bay-rays-2">TBR</a></td><td><a href="http://www.fangraphs.com/blogs/top-43-prospects-kansas-city-royals">KCR</a></td><td><a href="http://www.fangraphs.com/blogs/top-38-prospects-seattle-mariners">SEA</a></td></tr><tr><td><a href="http://www.fangraphs.com/blogs/top-38-prospects-toronto-blue-jays">TOR</a></td><td><a href="http://www.fangraphs.com/blogs/top-43-prospects-minnesota-twins">MIN</a></td><td><a href="http://www.fangraphs.com/blogs/top-52-prospects-texas-rangers">TEX</a></td></tr></table>
+            </div>
+            <div>
+                <div class="team-lg">NL</div><table><tr><td><a href="http://www.fangraphs.com/blogs/top-27-prospects-atlanta-braves">ATL</a></td><td><a href="http://www.fangraphs.com/blogs/top-41-prospects-chicago-cubs">CHC</a></td><td><a href="http://www.fangraphs.com/blogs/top-47-prospects-arizona-diamondbacks">ARI</a></td></tr><tr><td><a href="http://www.fangraphs.com/blogs/top-40-prospects-miami-marlins">MIA</a></td><td><a href="http://www.fangraphs.com/blogs/top-35-prospects-cincinnati-reds">CIN</a></td><td><a href="http://www.fangraphs.com/blogs/top-31-prospects-colorado-rockies">COL</a></td></tr><tr><td><a href="http://www.fangraphs.com/blogs/top-31-prospects-new-york-mets">NYM</a></td><td><a href="http://www.fangraphs.com/blogs/top-35-prospects-milwaukee-brewers">MIL</a></td><td><a href="http://www.fangraphs.com/blogs/top-47-prospects-los-angeles-dodgers">LAD</a></td></tr><tr><td><a href="http://www.fangraphs.com/blogs/top-39-prospects-philadelphia-phillies">PHI</a></td><td><a href="http://www.fangraphs.com/blogs/top-42-prospects-pittsburgh-pirates">PIT</a></td><td><a href="http://www.fangraphs.com/blogs/top-53-prospects-san-diego-padres">SDP</a></td></tr><tr><td><a href="http://www.fangraphs.com/blogs/top-21-prospects-washington-nationals">WSN</a></td><td><a href="http://www.fangraphs.com/blogs/top-34-prospects-st-louis-cardinals">STL</a></td><td><a href="http://www.fangraphs.com/blogs/top-34-prospects-san-francisco-giants">SFG</a></td></tr></table></div>
+            </div></div><div class="team-box-bottom team-box-3963">
+                    <br/>
+                    <ul>
+                        <a href="https://blogs.fangraphs.com/2021-top-100-prospects/"><li>2021 Preseason Top 100</li></a>
+                    </ul>
+                    <br/>
+                    </div><div class="team-box-bottom team-box-3932" style="display: none;">
+                    <br/>
+                    <ul>
+                        <a href="https://blogs.fangraphs.com/2020-top-100-prospects/"><li>2020 Preseason Top 100</li></a>
+                    </ul>
+                    <br/>
+                    </div></div><script>
+            
+        </script>
+        <style>
+            
+        </style>
+
+
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="menu-item" data-sub="glossary" data-full="true">
+                    <div class="menu-item-label">Glossary</div>
+                    <div class="menu-sub">
+                        <div class="menusub_mid">
+                            <div class="menu-sub-link">
+                                <a href="//www.fangraphs.com/library/">Library</a>
+                            </div>
+                            <div class="menu-sub-header">
+                                Batting Stats
+                            </div>
+                            <a href="//www.fangraphs.com/library/offense/woba/">wOBA</a>, <a href="//www.fangraphs.com/library/offense/wrc/">wRC+</a>, <a href="//www.fangraphs.com/library/offense/iso/">ISO</a>,
+                            <a href="//www.fangraphs.com/library/offense/rate-stats/">K% & BB%</a>,
+                            <a href="//www.fangraphs.com/library/offense/">more...</a>
+                            <div class="menu-sub-header">
+                                Pitching Stats
+                            </div>
+                            <a href="//www.fangraphs.com/library/pitching/fip/">FIP</a>, <a href="//www.fangraphs.com/library/pitching/xfip/">xFIP</a>, <a href="//www.fangraphs.com/library/pitching/babip/">BABIP</a>,
+                            <a href="//www.fangraphs.com/library/pitching/rate-stats/">K/9 & BB/9</a>,
+                            <a href="//www.fangraphs.com/library/pitching/">more...</a>
+                            <div class="menu-sub-header">
+                                Defensive Stats
+                            </div>
+                            <a href="//www.fangraphs.com/blogs/the-fangraphs-uzr-primer/">UZR Primer</a>,
+                            <a href="//www.fangraphs.com/library/defense/drs/">DRS</a>, <a href="//www.fangraphs.com/library/defense/fsr/">FSR</a>, <a href="//www.fangraphs.com/library/defense/tz-tzl/">TZ & TZL</a>,
+                            <a href="//www.fangraphs.com/library/defense/">more...</a>
+                            <div class="menu-sub-header">
+                                More
+                            </div>
+                            <a href="//www.fangraphs.com/library/misc/war/">WAR</a>, <a href="//www.fangraphs.com/blogs/ultimate-base-running-primer/">UBR Primer</a>, <a href="//www.fangraphs.com/library/misc/wpa/">WPA</a>,
+                            <a href="//www.fangraphs.com/library/misc/li/">LI</a>, <a href="//www.fangraphs.com/library/misc/clutch/">Clutch</a>
+                            <div class="menu-sub-header">
+                                Guts!
+                            </div>
+                            <a href="//www.fangraphs.com/guts.aspx?type=cn">Seasonal Constants</a><br />
+                            <a href="//www.fangraphs.com/guts.aspx?type=pf&teamid=0&season=2020">Park Factors</a><br />
+                            <a href="//www.fangraphs.com/guts.aspx?type=pfh&teamid=0&season=2020">Park Factors
+                                by Handedness</a>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-fill"></li>
+                <li class="menu-item" data-sub="login" data-full="true">
+                    <a id="linkAccount" href="http://www.fangraphs.com/blogs/wp-login.php?redirect_to=https%3a%2f%2fwww.fangraphs.com%2f404.aspx%3f404%3bhttps%3a%2f%2fwww.fangraphs.com%3a443%2fcss%2ftelerik">
+                        <div class="menu-item-label">
+                            <div class="label-account">Sign In</div><div class="icon-account signed-out"></div>
+                        </div>
+                    </a>
+                    
+                    
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
+
+<div id="my_popup">
+
+    <div class="popup-title" style="">Help Support FanGraphs</div>
+
+    <div id="nudge_pop">
+    </div>
+    <br />
+    <br />
+    <div class="popup-button-container">
+    <a class="membership_button popup-button" href="https://www.fangraphs.com/plus/product/fangraphs-membership/" style="background-color: #50ae26; color: #fff;">Become a Member
+    </a>
+    <a class="my_popup_close popup-button" style="background-color: #000; color: #fff;">No Thanks
+    </a>
+    </div>
+    <div class="popup-login">Already a member? <a href="http://www.fangraphs.com/blogs/wp-login.php?redirect_to=https%3a%2f%2fwww.fangraphs.com%2f404.aspx%3f404%3bhttps%3a%2f%2fwww.fangraphs.com%3a443%2fcss%2ftelerik">Sign In</a></div>
+</div>
+
+
+
+
+
+
+<div id="newScript">
+	
+    <script>
+        window.FGWebsite_head_section.buildSearchBar();
+    </script>
+
+</div>
+
+
+        <div id="divHeaderChat" class="header-chat-alert"><a class="header-chat-alert-text"></a></div>
+        
+    </header>
+    <div class="header__ra-unit">
+        <div id="ezoic-pub-ad-placeholder-104" class="catchall728" style='margin-bottom:20px;'><!-- ROS_728x90 --> <div id ='div-gpt-ad-1349421924281-14' style='margin: auto;'><script type='text/javascript'>if (typeof googletag != "undefined") { if ($('#div-gpt-ad-1349421924281-14').is(':visible')) {googletag.cmd.push(function () { googletag.display('div-gpt-ad-1349421924281-14'); })};}</script></div></div>
+
+    </div>
+</div>
+
+
+
+<style></style>
+
+
+
+
+
+
+
+        </div>
+        <div id="content">
+            <div class="error-page">
+                <div class="error-header"><span class="error-code">404</span>Page Not Found</div>
+                <div class="error-body">You might be looking for:</div>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/leaders.aspx">MLB Leaderboards</a></li>
+                    <li><a href="/standings/playoff-odds">MLB Playoff Odds</a></li>
+                    <li><a href="/depthcharts.aspx?position=ALL&teamid=1">Depth Charts</a></li>
+                    <li><a href="/projections.aspx">Player Projections</a></li>
+                    <li><a href="/blogroll.aspx">All Articles</a></li>
+                </ul>
+                <div class="error-page-action">If you still can't find what you are looking for, please <a href="/blogs/contact">contact us</a>!</div>
+            </div>
+        </div>
+        <div id="footer">
+            <div id="Footer1_panFooter" class="ra-wide box-ra ra-member-hide">
+	
+    <div>
+        <div id="ezoic-pub-ad-placeholder-124" class="catchall728" style=''><!-- ROS-Footer --> <div id ='div-gpt-ad-1349421924281-10'><script type='text/javascript'>if (typeof googletag != "undefined") { if ($('#div-gpt-ad-1349421924281-10').is(':visible')) {googletag.cmd.push(function () { googletag.display('div-gpt-ad-1349421924281-10'); })};}</script></div></div>
+
+    </div>
+
+</div>
+
+<br />
+
+<div class="footer-bar">
+    <div class="footer-bar-background">
+        <div class="footer-bar-item">
+            
+        </div>
+    </div>
+    <div class="footer-bar-item">
+        <span class="mobile-hide">Updated: Monday, April 5, 2021 8:50 PM ET</span><span class="mobile-show">Updated: 4/5/2021 8:50 PM ET</span>
+    </div>
+    <div class="footer-bar-item" style="text-align: center; margin: auto;">
+        <a href="https://www.fangraphs.com/linkify.aspx">Player Linker</a> - <a href="https://blogs.fangraphs.com/contact/">Contact Us</a> - <a href="https://blogs.fangraphs.com/advertise/">Advertise</a>
+        - <a href="https://www.fangraphs.com/about/terms-of-service">Terms of Service</a> - <a href="https://www.fangraphs.com/about/privacy-policy">Privacy Policy</a>
+    </div>
+</div>
+<div class="footer-credits">
+    <div class="footer-credits-item item-half-wide">
+        <a href="https://www.sportsinfosolutions.com/" class="footer-credits-item-name">
+            <img src="//cdn.fangraphs.com/images/sis_logo_100.png" alt="sis_logo" /></a>
+        <div class="footer-credits-item-text">
+            All major league baseball data including pitch type, velocity, batted ball location,
+        and play-by-play data provided by Sports Info Solutions.
+        </div>
+    </div>
+    
+    <div class="footer-credits-item item-half-wide">
+                <a href="http://www.mlb.com" class="footer-credits-item-name">
+            <img src="//cdn.fangraphs.com/images/mlb_logo.png" alt="mlb logo" /></a>
+        <div class="footer-credits-item-text">
+            Major League and Minor League Baseball data provided by Major League Baseball.
+        </div>
+    </div>
+    <div class="footer-credits-item">
+        <div class="footer-credits-item-name">Mitchel Lichtman</div>
+        <div class="footer-credits-item-text">All UZR (ultimate zone rating) calculations are provided courtesy of Mitchel Lichtman.</div>
+    </div>
+    <div class="footer-credits-item">
+        <a href="http://www.tangotiger.com" class="footer-credits-item-name">TangoTiger.com</a>
+        <div class="footer-credits-item-text">All Win Expectancy, Leverage Index, Run Expectancy, and Fans Scouting Report data licenced from TangoTiger.com</div>
+    </div>
+    <div class="footer-credits-item">
+        <a href="http://www.retrosheet.org" class="footer-credits-item-name">Retrosheet.org</a>
+        <div class="footer-credits-item-text">
+            Play-by-play data prior to 2002 was obtained free of charge from and is copyrighted
+        by Retrosheet.
+        </div>
+    </div>
+</div>
+<div id="footer-membership">
+</div>
+<div id="ezoic-pub-ad-placeholder-113"></div>
+
+
+
+<!-- SOVRN REFRESH TAG -->
+
+
+
+
+<!-- Chartbeat Tag -->
+
+<script type="text/javascript">
+    var _sf_async_config = { uid: 4890, domain: "fangraphs.com" };
+    (function () {
+        function loadChartbeat() {
+            window._sf_endpt = (new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src',
+                (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+                "static.chartbeat.com/js/chartbeat.js");
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+            loadChartbeat : function () { oldonload(); loadChartbeat(); };
+    })();
+
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+    var _qevents = _qevents || [];
+
+    (function () {
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+    })();
+
+    _qevents.push({
+        qacct: "p-8dBx9wgQFa1M6"
+    });
+</script>
+<noscript>
+    <div style="display: none;">
+        <img src="//pixel.quantserve.com/pixel/p-8dBx9wgQFa1M6.gif" border="0" height="1"
+            width="1" alt="Quantcast" />
+    </div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- Clicky Tag -->
+
+<script type="text/javascript">
+    var clicky_site_ids = clicky_site_ids || [];
+    clicky_site_ids.push(100553825);
+    (function () {
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = '//static.getclicky.com/js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+    })();
+</script>
+<noscript>
+    <p>
+        <img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100553825ns.gif" />
+    </p>
+</noscript>
+
+<!-- PAGE DATE -->
+
+
+<script>
+    FGWebsite_head_section.buildEzoicAds();
+    FGWebsite_head_section.buildEzoicAdsData();
+</script>
+
+
+<script src="/dfp.js" type="text/javascript"></script>
+                            <script>
+                                window.FGWebsite_head_section.buildMembershipPushWide()
+                            </script>
+<!-- Google Analytics Tag -->
+
+<script>    
+    var userType = 'Public';
+                    if (!document.getElementById('VvwgsaxHSkuQ')) {
+                        userType = 'Ad Block';
+                    }
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-230086-1"></script>
+    <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments);}
+     gtag('js', new Date());
+
+     gtag('config', 'UA-230086-1', {
+        'custom_map': {'dimension1': 'author', 'dimension2': 'userType', 'dimension3': 'member'}
+        });
+
+    gtag('event', 'page_load', {'author': '', 'userType': userType, 'member': userType })
+    </script>
+
+
+        </div>
+    </div>
+</body>
+</html>
